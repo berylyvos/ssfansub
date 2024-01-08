@@ -1,0 +1,516 @@
+﻿[Script Info]
+Original Script: YYeTs
+ScriptType: v4.00+
+Synch Point: 1
+Title: YYeTs
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,2,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:36.87,0:00:41.39,*Default,,0,0,0,,{\an8}双峰\N第三季第六集
+Dialogue: 0,0:01:42.64,0:01:47.64,Default,,0,0,0,,{\an5\fad(550,500)\p1\bord2\shad0\fscx150\fscy160\alpha&566\c&H000000&\3c&HECB000&\move(145,247,145,227,0,500)\clip(30,188,340,210)\t(0,500,\clip(30,168,340,190))}m 211 -8 b 217 -6 217 -4 217 -2 l 217 24 b 217 26 217 29 211 31 l 31 31 b 26 29 26 26 26 24 l 26 -2 b 26 -4 26 -6 31 -8{\p0}
+Dialogue: 0,0:01:42.64,0:01:47.64,Default,,0,0,0,,{\an5\fad(550,500)\p1\bord2\shad0\fscx150\fscy160\alpha&566\c&H000000&\3c&HECB000&\move(145,207,145,227,0,500)\clip(30,220,340,235)\t(0,500,\clip(30,240,340,255))}m 211 -8 b 217 -6 217 -4 217 -2 l 217 24 b 217 26 217 29 211 31 l 31 31 b 26 29 26 26 26 24 l 26 -2 b 26 -4 26 -6 31 -8{\p0}
+Dialogue: 0,0:01:42.64,0:01:47.64,Default,,0,0,0,,{\an5\fad(550,500)\p1\bord3\blur3\shad0\fscx150\fscy0\t(0,400,\fscy160)\alpha&566\c&H000000&\pos(145,227)\clip(30,210,340,220)\t(0,500,\clip(30,190,340,240))}m 211 -8 b 217 -6 217 -4 217 -2 l 217 24 b 217 26 217 29 211 31 l 31 31 b 26 29 26 26 26 24 l 26 -2 b 26 -4 26 -6 31 -8{\p0}
+Dialogue: 1,0:01:43.14,0:01:47.64,Default,,0,0,0,,{\fad(550,500)\bord0\shad0\blur5\t(0,500,\blur0)\fscx11\fscy14.5\p1\c&HCE8F00&\pos(67,223)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0{\p0}
+Dialogue: 3,0:01:43.14,0:01:47.64,Default,,0,0,0,,{\fad(550,500)\bord0\shad0\blur5\t(0,500,\blur0)\fscx11\fscy14\p1\c&HF6DBA1&\pos(67,223)}m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35{\p0}
+Dialogue: 5,0:01:43.14,0:01:47.64,Default,,0,0,0,,{\fad(550,500)\bord0\shad0\fscx15\fscy18\p1\c&HFFFFFF&\blur9\pos(58,213)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60{\p0}
+Dialogue: 1,0:01:43.14,0:01:47.64,Default,,0,0,0,,{\fad(550,500)\bord0\shad0\blur5\t(0,500,\blur0)\fscx11\fscy14\p1\c&HECB000&\pos(84,223)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172{\p0}
+Dialogue: 1,0:01:43.14,0:01:47.64,Default,,0,0,0,,{\fad(550,500)\fs16\bord0\shad0\blur5\t(0,500,\blur0)\b1\c&HECB000&\pos(99,242)}原创翻译  双语字幕
+Dialogue: 1,0:01:43.64,0:01:47.64,Default,,0,0,0,,{\fad(550,500)\fn方正准圆_GBK\b1\bord0\2a&HFF&\shad0\fs17\pos(235.108,242)\K40}最新连载海外影视剧下载\N{\fs19\K30}请登陆 {\c&H26F4FF&\fn方正综艺_GBK\K30}www.YYeTs.com\N{\fn方正准圆_GBK\fs15\c&HFFFFFF&\K60}仅供交流学习  禁止商用盈利
+Dialogue: 0,0:01:48.36,0:02:19.37,Default,,0,0,0,,{\an2\fad(550,550)\bord0\shad0\shad0\fscx150\fscy170\p1\pos(26,248)\c&HECB000&\b1}m 38 -1 l 44 6 l 38 13 l 19 13 b 14 12 14 6 14 6 b 14 6 14 0 19 -1{\p0}
+Dialogue: 0,0:01:48.86,0:02:19.37,Default,,0,0,0,,{\an9\bord0\shad0\shad0\fscx130\fscy170\frz180\p1\alpha&88\c&H000000&\b1\move(-180,245,70,245,0,500)\clip(49,215,304,257)\fad(550,550)}m 200 -1 l 200 13 l 19 13 b 14 12 14 6 14 6 b 14 6 14 0 19 -1{\p0}
+Dialogue: 0,0:01:49.37,0:01:54.37,Default,,0,0,0,,{\an4\fad(500,500)\bord0\shad0\fs18\pos(35,235)\fn方正准圆_GBK\c&H000000&}翻译     {\c&HFFFFFF&}苏小黛   小酸奶   吃冰棒
+Dialogue: 0,0:01:54.37,0:01:59.37,Default,,0,0,0,,{\an4\fad(500,500)\bord0\shad0\fs18\pos(35,235)\fn方正准圆_GBK\c&H000000&}翻译     {\c&HFFFFFF&}詹木头   一只虾
+Dialogue: 0,0:01:59.37,0:02:04.37,Default,,0,0,0,,{\an4\fad(500,500)\bord0\shad0\fs18\pos(35,235)\fn方正准圆_GBK\c&H000000&}校对     {\c&HFFFFFF&}小酸奶
+Dialogue: 0,0:02:03.74,0:02:06.90,*Default,,0,0,0,,我半小时前就请您离开了  先生\N{\fn微软雅黑}{\fs14}I told you to be on your way half an hour ago, sir.
+Dialogue: 0,0:02:04.37,0:02:09.37,Default,,0,0,0,,{\an4\fad(500,500)\bord0\shad0\fs18\pos(27,235)\fn方正准圆_GBK\c&H000000&}时间轴     {\c&HFFFFFF&}没有影子   知之
+Dialogue: 0,0:02:09.37,0:02:14.37,Default,,0,0,0,,{\an4\fad(500,500)\bord0\shad0\fs18\pos(35,235)\fn方正准圆_GBK\c&H000000&}后期     {\c&HFFFFFF&}8T
+Dialogue: 0,0:02:11.37,0:02:13.13,*Default,,0,0,0,,这里不准瞎晃\N{\fn微软雅黑}{\fs14}There's no loitering here.
+Dialogue: 0,0:02:14.37,0:02:19.37,Default,,0,0,0,,{\an4\fad(500,500)\bord0\shad0\fs18\pos(35,235)\fn方正准圆_GBK\c&H000000&}总监     {\c&HFFFFFF&}小酸奶
+Dialogue: 0,0:02:16.67,0:02:18.04,*Default,,0,0,0,,你叫什么名字  先生\N{\fn微软雅黑}{\fs14}What's your name, sir?
+Dialogue: 0,0:02:19.46,0:02:20.77,*Default,,0,0,0,,你叫什么  先生\N{\fn微软雅黑}{\fs14}What's your name, sir?
+Dialogue: 0,0:02:24.10,0:02:25.35,*Default,,0,0,0,,道吉·琼斯\N{\fn微软雅黑}{\fs14}Dougie Jones.
+Dialogue: 0,0:02:26.57,0:02:29.16,*Default,,0,0,0,,你住在哪里  琼斯先生\N{\fn微软雅黑}{\fs14}And where do you live, Mr. Jones?
+Dialogue: 0,0:02:34.39,0:02:35.13,*Default,,0,0,0,,家\N{\fn微软雅黑}{\fs14}Home.
+Dialogue: 0,0:02:36.17,0:02:37.61,*Default,,0,0,0,,家在哪\N{\fn微软雅黑}{\fs14}And where is home?
+Dialogue: 0,0:02:45.46,0:02:47.67,*Default,,0,0,0,,不行  不能摸警徽\N{\fn微软雅黑}{\fs14}No-no-no-no. Don't touch the badge.
+Dialogue: 0,0:02:48.36,0:02:49.49,*Default,,0,0,0,,兰斯洛特\N{\fn微软雅黑}{\fs14}Lancelot.
+Dialogue: 0,0:02:51.04,0:02:52.38,*Default,,0,0,0,,兰斯洛特法院\N{\fn微软雅黑}{\fs14}Lancelot Court?
+Dialogue: 0,0:02:56.78,0:02:57.81,*Default,,0,0,0,,红色的门\N{\fn微软雅黑}{\fs14}Red door.
+Dialogue: 0,0:02:59.62,0:03:01.19,*Default,,0,0,0,,你喝酒了吗  先生\N{\fn微软雅黑}{\fs14}Have you been drinking, sir?
+Dialogue: 0,0:03:01.86,0:03:03.61,*Default,,0,0,0,,或是服用了任何药物\N{\fn微软雅黑}{\fs14}Any drugs or medications?
+Dialogue: 0,0:03:03.61,0:03:05.22,*Default,,0,0,0,,你吃了什么吗\N{\fn微软雅黑}{\fs14}Have you taken anything?
+Dialogue: 0,0:03:10.16,0:03:11.29,*Default,,0,0,0,,档案\N{\fn微软雅黑}{\fs14}Case file.
+Dialogue: 0,0:03:18.36,0:03:19.31,*Default,,0,0,0,,跟我走\N{\fn微软雅黑}{\fs14}Come with me.
+Dialogue: 0,0:03:20.07,0:03:20.74,*Default,,0,0,0,,走吧\N{\fn微软雅黑}{\fs14}Come on.
+Dialogue: 0,0:03:36.92,0:03:38.11,*Default,,0,0,0,,来了\N{\fn微软雅黑}{\fs14}Just a second.
+Dialogue: 0,0:03:40.69,0:03:41.48,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie?
+Dialogue: 0,0:03:41.48,0:03:43.13,*Default,,0,0,0,,女士  你认得这个人吗\N{\fn微软雅黑}{\fs14}Ma'am, do you know this man?
+Dialogue: 0,0:03:43.13,0:03:44.37,*Default,,0,0,0,,当然  \N{\fn微软雅黑}{\fs14}Uh, yes, of course I do.
+Dialogue: 0,0:03:44.37,0:03:46.44,*Default,,0,0,0,,他是我丈夫  道吉·琼斯\N{\fn微软雅黑}{\fs14}He's my husband, Dougie Jones.
+Dialogue: 0,0:03:46.44,0:03:47.61,*Default,,0,0,0,,你去哪了\N{\fn微软雅黑}{\fs14}Where have you been?
+Dialogue: 0,0:03:47.76,0:03:50.61,*Default,,0,0,0,,他好像有点分不清方向\N{\fn微软雅黑}{\fs14}He seems a little disoriented.
+Dialogue: 0,0:03:50.64,0:03:52.16,*Default,,0,0,0,,这还算好的呢\N{\fn微软雅黑}{\fs14}That's on a good day.
+Dialogue: 0,0:03:52.54,0:03:53.93,*Default,,0,0,0,,他没有身份证件\N{\fn微软雅黑}{\fs14}He has no identification,
+Dialogue: 0,0:03:53.93,0:03:56.66,*Default,,0,0,0,,也说不出街道地址\N{\fn微软雅黑}{\fs14}and he wasn't able to give me the street address.
+Dialogue: 0,0:03:56.66,0:03:59.08,*Default,,0,0,0,,他只知道门的颜色\N{\fn微软雅黑}{\fs14}He only knew the house by the color of the door.
+Dialogue: 0,0:04:00.40,0:04:01.92,*Default,,0,0,0,,非常感谢你们\N{\fn微软雅黑}{\fs14}thank you, very much,
+Dialogue: 0,0:04:01.92,0:04:04.26,*Default,,0,0,0,,警官  谢谢你们带他回来\N{\fn微软雅黑}{\fs14}officers, for bringing him home.
+Dialogue: 0,0:04:04.27,0:04:05.62,*Default,,0,0,0,,进来吧  亲爱的\N{\fn微软雅黑}{\fs14}Come on, sweetheart.
+Dialogue: 0,0:04:06.66,0:04:07.54,*Default,,0,0,0,,咱们进屋\N{\fn微软雅黑}{\fs14}Let's get you in.
+Dialogue: 0,0:04:07.98,0:04:08.74,*Default,,0,0,0,,警徽\N{\fn微软雅黑}{\fs14}Badge.
+Dialogue: 0,0:04:08.75,0:04:10.93,*Default,,0,0,0,,对  这是我的警徽  先生\N{\fn微软雅黑}{\fs14}Yes, that's my badge, sir, yeah.
+Dialogue: 0,0:04:10.93,0:04:13.72,*Default,,0,0,0,,他对我的警徽异常迷恋  我不知道\N{\fn微软雅黑}{\fs14}He's got this thing for my badge, I don't know...
+Dialogue: 0,0:04:13.72,0:04:15.23,*Default,,0,0,0,,他就喜欢...\N{\fn微软雅黑}{\fs14}He likes...
+Dialogue: 0,0:04:15.72,0:04:18.20,*Default,,0,0,0,,谢谢  谢谢你了  警官\N{\fn微软雅黑}{\fs14}Thank you. Thank you, officer.
+Dialogue: 0,0:04:18.40,0:04:19.28,*Default,,0,0,0,,快进来\N{\fn微软雅黑}{\fs14}Come on in.
+Dialogue: 0,0:04:19.43,0:04:20.49,*Default,,0,0,0,,女士\N{\fn微软雅黑}{\fs14}Uh, ma'am?
+Dialogue: 0,0:04:21.01,0:04:22.54,*Default,,0,0,0,,这有个信封是你们的\N{\fn微软雅黑}{\fs14}There's an envelope here for you.
+Dialogue: 0,0:04:24.50,0:04:25.60,*Default,,0,0,0,,再次感谢\N{\fn微软雅黑}{\fs14}Thank you again.
+Dialogue: 0,0:04:26.02,0:04:26.70,*Default,,0,0,0,,晚安\N{\fn微软雅黑}{\fs14}Good night.
+Dialogue: 0,0:04:26.70,0:04:27.68,*Default,,0,0,0,,晚安  女士\N{\fn微软雅黑}{\fs14}Good night, ma'am.
+Dialogue: 0,0:04:29.81,0:04:32.46,*Default,,0,0,0,,道吉  对不起  我忘了你没车\N{\fn微软雅黑}{\fs14}Dougie, I'm sorry, I forgot, your car.
+Dialogue: 0,0:04:32.46,0:04:33.89,*Default,,0,0,0,,你的车呢\N{\fn微软雅黑}{\fs14}Where is your car?
+Dialogue: 0,0:04:35.67,0:04:36.95,*Default,,0,0,0,,你吃东西了吗\N{\fn微软雅黑}{\fs14}Have you eaten?
+Dialogue: 0,0:04:37.77,0:04:40.12,*Default,,0,0,0,,来  我给你做个三明治\N{\fn微软雅黑}{\fs14}Come on. I'm gonna fix you a sandwich.
+Dialogue: 0,0:04:57.94,0:05:00.86,*Default,,0,0,0,,明天午休时  我要带你去见本医生\N{\fn微软雅黑}{\fs14}Tomorrow lunchtime, I'm taking you to see Dr. Ben.
+Dialogue: 0,0:05:02.05,0:05:03.88,*Default,,0,0,0,,得让他好好看看你\N{\fn微软雅黑}{\fs14}He needs to take a good look at you.
+Dialogue: 0,0:05:04.62,0:05:05.81,*Default,,0,0,0,,看看你\N{\fn微软雅黑}{\fs14}Look at you.
+Dialogue: 0,0:05:08.00,0:05:09.41,*Default,,0,0,0,,这些是什么\N{\fn微软雅黑}{\fs14}And what are these?
+Dialogue: 0,0:05:14.84,0:05:15.88,*Default,,0,0,0,,档案\N{\fn微软雅黑}{\fs14}Case files.
+Dialogue: 0,0:05:23.84,0:05:24.84,*Default,,0,0,0,,档案\N{\fn微软雅黑}{\fs14}Case files.
+Dialogue: 0,0:05:33.18,0:05:34.22,*Default,,0,0,0,,还有这个\N{\fn微软雅黑}{\fs14}And this one...
+Dialogue: 0,0:05:37.84,0:05:39.31,*Default,,0,0,0,,这上面什么都没写\N{\fn微软雅黑}{\fs14}...there's nothing written on it.
+Dialogue: 0,0:05:44.92,0:05:46.01,*Default,,0,0,0,,好吧  道吉\N{\fn微软雅黑}{\fs14}Okay, Dougie,
+Dialogue: 0,0:05:46.77,0:05:48.37,*Default,,0,0,0,,你得上楼\N{\fn微软雅黑}{\fs14}you need to go upstairs
+Dialogue: 0,0:05:48.66,0:05:50.45,*Default,,0,0,0,,去跟桑尼·吉姆说晚安\N{\fn微软雅黑}{\fs14}and say good night to Sonny Jim.
+Dialogue: 0,0:05:51.06,0:05:52.71,*Default,,0,0,0,,他一直醒着在等你\N{\fn微软雅黑}{\fs14}He's been waiting up for you.
+Dialogue: 0,0:05:55.16,0:05:56.34,*Default,,0,0,0,,等你\N{\fn微软雅黑}{\fs14}Up for you.
+Dialogue: 0,0:05:59.19,0:06:02.58,*Default,,0,0,0,,上楼去跟桑尼·吉姆说晚安\N{\fn微软雅黑}{\fs14}Go upstairs and say good night to Sonny Jim.
+Dialogue: 0,0:06:18.36,0:06:19.88,*Default,,0,0,0,,上楼\N{\fn微软雅黑}{\fs14}Upstairs!
+Dialogue: 0,0:06:26.73,0:06:27.68,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie.
+Dialogue: 0,0:08:06.68,0:08:08.34,*Default,,0,0,0,,我已经刷过牙了\N{\fn微软雅黑}{\fs14}I already brushed my teeth.
+Dialogue: 0,0:08:13.78,0:08:15.60,*Default,,0,0,0,,我能不关牛仔灯吗\N{\fn微软雅黑}{\fs14}Can I leave my cowboy light on?
+Dialogue: 0,0:08:17.23,0:08:19.32,*Default,,0,0,0,,你能等我睡着了再走吗\N{\fn微软雅黑}{\fs14}Will you stay with me until I fall asleep?
+Dialogue: 0,0:08:21.33,0:08:22.31,*Default,,0,0,0,,睡着\N{\fn微软雅黑}{\fs14}Asleep.
+Dialogue: 0,0:08:48.98,0:08:49.71,*Default,,0,0,0,,爸爸\N{\fn微软雅黑}{\fs14}Dad.
+Dialogue: 0,0:08:54.48,0:08:55.36,*Default,,0,0,0,,爸爸\N{\fn微软雅黑}{\fs14}Dad.
+Dialogue: 0,0:09:11.35,0:09:12.18,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie!
+Dialogue: 0,0:09:12.33,0:09:14.44,*Default,,0,0,0,,马上给我下来\N{\fn微软雅黑}{\fs14}Get down here right now!
+Dialogue: 0,0:09:15.05,0:09:16.43,*Default,,0,0,0,,快点\N{\fn微软雅黑}{\fs14}Right now!
+Dialogue: 0,0:09:19.06,0:09:21.54,*Default,,0,0,0,,妈  他要陪我的\N{\fn微软雅黑}{\fs14}Mom! He was gonna stay with me!
+Dialogue: 0,0:09:21.54,0:09:23.20,*Default,,0,0,0,,今晚不行\N{\fn微软雅黑}{\fs14}Not tonight, he isn't.
+Dialogue: 0,0:09:23.20,0:09:25.23,*Default,,0,0,0,,妈妈一会就上去  宝贝\N{\fn微软雅黑}{\fs14}Mommy will be up soon, honey.
+Dialogue: 0,0:09:27.22,0:09:29.36,*Default,,0,0,0,,赶紧下来  快点\N{\fn微软雅黑}{\fs14}Get down here, right now!
+Dialogue: 0,0:09:35.30,0:09:37.65,*Default,,0,0,0,,你麻烦大了  先生\N{\fn微软雅黑}{\fs14}You are in the doghouse, mister.
+Dialogue: 0,0:09:37.82,0:09:38.70,*Default,,0,0,0,,你本该打给他们\N{\fn微软雅黑}{\fs14}You were supposed to call them
+Dialogue: 0,0:09:38.70,0:09:40.18,*Default,,0,0,0,,约好时间把钱给他们\N{\fn微软雅黑}{\fs14}and set up a time to pay them off,
+Dialogue: 0,0:09:40.18,0:09:42.46,*Default,,0,0,0,,结果你看看  这东西出现了\N{\fn微软雅黑}{\fs14}and look, this shows up!
+Dialogue: 0,0:09:42.72,0:09:44.91,*Default,,0,0,0,,你有什么解释吗\N{\fn微软雅黑}{\fs14}Do you have an explanation for this?
+Dialogue: 0,0:09:45.04,0:09:45.96,*Default,,0,0,0,,杰德\N{\fn微软雅黑}{\fs14}Jade.
+Dialogue: 0,0:09:47.79,0:09:48.85,*Default,,0,0,0,,杰德\N{\fn微软雅黑}{\fs14}Jade?
+Dialogue: 0,0:09:49.54,0:09:51.04,*Default,,0,0,0,,她叫杰德是吧\N{\fn微软雅黑}{\fs14}So that's her name, is it?
+Dialogue: 0,0:09:51.04,0:09:52.81,*Default,,0,0,0,,杰德载了我两程\N{\fn微软雅黑}{\fs14}Jade give two rides.
+Dialogue: 0,0:09:53.67,0:09:55.59,*Default,,0,0,0,,我猜也是\N{\fn微软雅黑}{\fs14}I'll bet she did.
+Dialogue: 0,0:09:57.88,0:10:00.08,*Default,,0,0,0,,你承认你认识她\N{\fn微软雅黑}{\fs14}And you admit you know her.
+Dialogue: 0,0:10:01.66,0:10:04.84,*Default,,0,0,0,,看看你俩  那样搂在一起\N{\fn微软雅黑}{\fs14}Look at you two, holding each other like that.
+Dialogue: 0,0:10:11.80,0:10:13.41,*Default,,0,0,0,,你要接吗\N{\fn微软雅黑}{\fs14}Are you gonna answer that?
+Dialogue: 0,0:10:15.00,0:10:16.91,*Default,,0,0,0,,也许是杰德打来的呢\N{\fn微软雅黑}{\fs14}Maybe it's Jade calling!
+Dialogue: 0,0:10:18.82,0:10:19.91,*Default,,0,0,0,,杰德\N{\fn微软雅黑}{\fs14}Jade.
+Dialogue: 0,0:10:20.55,0:10:22.74,*Default,,0,0,0,,我的天  道吉\N{\fn微软雅黑}{\fs14}Oh, my God, Dougie.
+Dialogue: 0,0:10:22.78,0:10:24.90,*Default,,0,0,0,,这事没完\N{\fn微软雅黑}{\fs14}We are not done with this.
+Dialogue: 0,0:10:26.40,0:10:27.47,*Default,,0,0,0,,喂\N{\fn微软雅黑}{\fs14}Hello?
+Dialogue: 0,0:10:28.47,0:10:29.76,*Default,,0,0,0,,道格·琼斯\N{\fn微软雅黑}{\fs14}Doug Jones.
+Dialogue: 0,0:10:34.45,0:10:35.71,*Default,,0,0,0,,你是哪位\N{\fn微软雅黑}{\fs14}Who is this?
+Dialogue: 0,0:10:36.70,0:10:39.00,*Default,,0,0,0,,道格...琼斯\N{\fn微软雅黑}{\fs14}Doug...Jones.
+Dialogue: 0,0:10:41.72,0:10:43.62,*Default,,0,0,0,,他不舒服\N{\fn微软雅黑}{\fs14}He's indisposed.
+Dialogue: 0,0:10:44.50,0:10:45.67,*Default,,0,0,0,,你收到我们的信封了吗\N{\fn微软雅黑}{\fs14}Did you get our envelope?
+Dialogue: 0,0:10:45.67,0:10:47.90,*Default,,0,0,0,,是的我收到了  真是谢谢你了\N{\fn微软雅黑}{\fs14}Yes, I did, thank you very much.
+Dialogue: 0,0:10:47.90,0:10:49.35,*Default,,0,0,0,,现在你听我说\N{\fn微软雅黑}{\fs14}Now, you listen to me.
+Dialogue: 0,0:10:49.36,0:10:51.57,*Default,,0,0,0,,他欠你多少钱\N{\fn微软雅黑}{\fs14}How much does he owe you?
+Dialogue: 0,0:10:51.69,0:10:52.74,*Default,,0,0,0,,他跟你说了吗\N{\fn微软雅黑}{\fs14}Did he tell you?
+Dialogue: 0,0:10:52.74,0:10:54.51,*Default,,0,0,0,,他没跟我说过\N{\fn微软雅黑}{\fs14}No, he didn't tell me.
+Dialogue: 0,0:10:54.69,0:10:57.57,*Default,,0,0,0,,我也是现在才知道这事的\N{\fn微软雅黑}{\fs14}I'm just finding out about all this right now.
+Dialogue: 0,0:10:57.98,0:10:59.10,*Default,,0,0,0,,五万美元\N{\fn微软雅黑}{\fs14}Fifty thousand.
+Dialogue: 0,0:10:59.10,0:11:01.95,*Default,,0,0,0,,他怎样凑那么多钱出来\N{\fn微软雅黑}{\fs14}A--and how's he supposed to get that?
+Dialogue: 0,0:11:01.95,0:11:03.96,*Default,,0,0,0,,谁会有那么多钱\N{\fn微软雅黑}{\fs14}Who can get that kind of money?
+Dialogue: 0,0:11:04.07,0:11:05.15,*Default,,0,0,0,,如果他没有这么多钱呢\N{\fn微软雅黑}{\fs14}And what if he doesn't have it?
+Dialogue: 0,0:11:05.15,0:11:07.51,*Default,,0,0,0,,你打算怎么做  打断他的腿吗\N{\fn微软雅黑}{\fs14}What are you gonna do then? Break his legs?
+Dialogue: 0,0:11:07.98,0:11:10.47,*Default,,0,0,0,,想想吧  凑这钱已经够难了\N{\fn微软雅黑}{\fs14}Think about it; it's hard enough to get that kind of money,
+Dialogue: 0,0:11:10.47,0:11:12.58,*Default,,0,0,0,,你打断他的腿了就更加不可能凑到了\N{\fn微软雅黑}{\fs14}let alone with broken legs.
+Dialogue: 0,0:11:12.89,0:11:16.98,*Default,,0,0,0,,五万美元  到期\N{\fn微软雅黑}{\fs14}Fifty thousand dollars, past due.
+Dialogue: 0,0:11:16.98,0:11:19.40,*Default,,0,0,0,,我们明天打电话去他办公室的时候\N{\fn微软雅黑}{\fs14}It'd be real smart for Mr. Jones
+Dialogue: 0,0:11:19.40,0:11:22.14,*Default,,0,0,0,,他最好是凑足了钱\N{\fn微软雅黑}{\fs14}to have that on him tomorrow when we call his office.
+Dialogue: 0,0:11:22.14,0:11:23.53,*Default,,0,0,0,,别  别  不要  不要\N{\fn微软雅黑}{\fs14}No, no, no, no.
+Dialogue: 0,0:11:23.53,0:11:25.62,*Default,,0,0,0,,你休想去他的办公室搞事\N{\fn微软雅黑}{\fs14}Don't you dare go to his office.
+Dialogue: 0,0:11:25.63,0:11:27.75,*Default,,0,0,0,,我会亲自跟你谈谈\N{\fn微软雅黑}{\fs14}I'll talk to you myself.
+Dialogue: 0,0:11:27.86,0:11:31.33,*Default,,0,0,0,,公园里面  靠近商场那个\N{\fn微软雅黑}{\fs14}In the park, at the corner of Guinevere and Merlin
+Dialogue: 0,0:11:31.33,0:11:32.53,*Default,,0,0,0,,吉尼维尔和梅林的角落\N{\fn微软雅黑}{\fs14}by the mall.
+Dialogue: 0,0:11:32.53,0:11:35.29,*Default,,0,0,0,,到时我会拿着红色的手提包\N{\fn微软雅黑}{\fs14}I'll be the one carrying the red purse.
+Dialogue: 0,0:11:35.31,0:11:36.35,*Default,,0,0,0,,红色手提包\N{\fn微软雅黑}{\fs14}Red purse.
+Dialogue: 0,0:11:37.43,0:11:38.14,*Default,,0,0,0,,时间呢\N{\fn微软雅黑}{\fs14}When?
+Dialogue: 0,0:11:38.14,0:11:40.31,*Default,,0,0,0,,明天中午十二点半\N{\fn微软雅黑}{\fs14}Noon-thirty tomorrow.
+Dialogue: 0,0:11:52.46,0:11:55.31,*Default,,0,0,0,,你看看你干的好事  道吉\N{\fn微软雅黑}{\fs14}What a mess you've made of our lives, Dougie.
+Dialogue: 0,0:11:57.76,0:11:59.43,*Default,,0,0,0,,我该拿你怎么办好\N{\fn微软雅黑}{\fs14}Now, what am I gonna do with you?
+Dialogue: 0,0:11:59.44,0:12:01.37,*Default,,0,0,0,,我本来打算在午饭时间\N{\fn微软雅黑}{\fs14}I was gonna take you to see Dr. Ben tomorrow
+Dialogue: 0,0:12:01.37,0:12:02.94,*Default,,0,0,0,,带你去看本医生的\N{\fn微软雅黑}{\fs14}during your lunch hour.
+Dialogue: 0,0:12:02.94,0:12:06.10,*Default,,0,0,0,,但我要在十二点半跟你朋友见面\N{\fn微软雅黑}{\fs14}And now I have to meet your friends at 12:30.
+Dialogue: 0,0:12:08.64,0:12:11.28,*Default,,0,0,0,,我...你的车呢  还有你钱包去哪了\N{\fn微软雅黑}{\fs14}I--w-where's your car? And your wallet?
+Dialogue: 0,0:12:11.28,0:12:14.16,*Default,,0,0,0,,你的钱包跟身份证都跑哪去了\N{\fn微软雅黑}{\fs14}What happened to your wallet and your identification?
+Dialogue: 0,0:12:14.61,0:12:17.14,*Default,,0,0,0,,如果那些是工作文件  你最好现在就开始干活\N{\fn微软雅黑}{\fs14}And if that's work, you better get started right away.
+Dialogue: 0,0:12:17.14,0:12:19.93,*Default,,0,0,0,,我们可不想你丢了工作  道吉\N{\fn微软雅黑}{\fs14}The last thing we need is you losing your job, Dougie.
+Dialogue: 0,0:12:23.82,0:12:25.59,*Default,,0,0,0,,好了  现在\N{\fn微软雅黑}{\fs14}Okay, now,
+Dialogue: 0,0:12:25.79,0:12:28.79,*Default,,0,0,0,,我要上楼跟桑尼·吉姆说晚安\N{\fn微软雅黑}{\fs14}I'm gonna go upstairs and say good night to Sonny Jim.
+Dialogue: 0,0:12:35.12,0:12:36.88,*Default,,0,0,0,,明天是个重要的日子\N{\fn微软雅黑}{\fs14}Tomorrow's a big day.
+Dialogue: 0,0:12:37.50,0:12:38.69,*Default,,0,0,0,,重要的日子\N{\fn微软雅黑}{\fs14}Big day.
+Dialogue: 0,0:12:40.98,0:12:43.63,*Default,,0,0,0,,-道吉  -重要的日子\N{\fn微软雅黑}{\fs14}- Oh, Dougie... - Big day.
+Dialogue: 0,0:12:44.22,0:12:45.82,*Default,,0,0,0,,是的  亲爱的\N{\fn微软雅黑}{\fs14}Yes, sweetheart.
+Dialogue: 0,0:13:03.97,0:13:11.41,*Default,,0,0,0,,{\an8\bord0\fs18\b1}幸运7号保险公司
+Dialogue: 0,0:14:04.29,0:14:06.13,*Default,,0,0,0,,{\an8\bord0\fs18\b1}你
+Dialogue: 0,0:14:06.51,0:14:07.38,*Default,,0,0,0,,{\an8\bord0\fs18\b1}必须
+Dialogue: 0,0:14:09.53,0:14:10.86,*Default,,0,0,0,,{\an8\bord0\fs18\b1}醒过来
+Dialogue: 0,0:14:11.81,0:14:13.29,*Default,,0,0,0,,{\an8\bord0\fs18\b1}快醒过来
+Dialogue: 0,0:14:21.70,0:14:23.50,*Default,,0,0,0,,{\an8\bord0\fs18\b1}别死
+Dialogue: 0,0:14:24.58,0:14:26.65,*Default,,0,0,0,,{\an8\bord0\fs18\b1}别死
+Dialogue: 0,0:14:27.24,0:14:28.94,*Default,,0,0,0,,{\an8\bord0\fs18\b1}别死啊
+Dialogue: 0,0:14:59.69,0:15:06.11,*Default,,0,0,0,,{\an8\bord0\fs18\b1}盗窃类索赔表
+Dialogue: 0,0:15:37.14,0:15:41.69,*Default,,0,0,0,,{\an8\bord0\fs18\b1}幸运7号保险公司
+Dialogue: 0,0:15:44.62,0:15:49.32,*Default,,0,0,0,,{\an8\bord0\fs18\b1}非放弃条款契约
+Dialogue: 0,0:15:52.02,0:15:55.75,*Default,,0,0,0,,{\an8\bord0\fs18\b1}安东尼·辛克莱
+Dialogue: 0,0:17:18.32,0:17:22.26,*Default,,0,0,0,,{\an8\bord0\fs18\b1}幸运7号保险公司
+Dialogue: 0,0:17:33.37,0:17:40.63,*Default,,0,0,0,,{\an8\bord0\fs18\b1}克拉克县
+Dialogue: 0,0:18:25.52,0:18:31.35,*Default,,0,0,0,,{\an8\bord0\fs18\b1}调查人员  卢米斯警官和斯托克顿警官
+Dialogue: 0,0:18:35.44,0:18:37.78,*Default,,0,0,0,,祝你今晚愉快  戈登\N{\fn微软雅黑}{\fs14}You have a super night too, Gordon.
+Dialogue: 0,0:18:38.23,0:18:39.97,*Default,,0,0,0,,我不知道我什么时候才能回家\N{\fn微软雅黑}{\fs14}I don't know when I'm gonna get home.
+Dialogue: 0,0:18:40.50,0:18:41.97,*Default,,0,0,0,,谢谢  艾伯特\N{\fn微软雅黑}{\fs14}Thank you, Albert.
+Dialogue: 0,0:18:42.07,0:18:43.78,*Default,,0,0,0,,我要提醒你\N{\fn微软雅黑}{\fs14}And let me remind you
+Dialogue: 0,0:18:43.78,0:18:45.87,*Default,,0,0,0,,你今晚执行的任务\N{\fn微软雅黑}{\fs14}that this work you are doing tonight
+Dialogue: 0,0:18:45.87,0:18:48.52,*Default,,0,0,0,,超级无敌重要\N{\fn微软雅黑}{\fs14}is very, very important.
+Dialogue: 0,0:18:48.83,0:18:51.91,*Default,,0,0,0,,我一喝这个就想到你\N{\fn微软雅黑}{\fs14}And I will be thinking of you as I drink this...
+Dialogue: 0,0:18:51.91,0:18:52.57,*Default,,0,0,0,,给你\N{\fn微软雅黑}{\fs14}Here you go.
+Dialogue: 0,0:18:52.57,0:18:54.00,*Default,,0,0,0,,谢谢  宝贝\N{\fn微软雅黑}{\fs14}Thank you, sweetheart.
+Dialogue: 0,0:18:54.39,0:18:56.51,*Default,,0,0,0,,波尔多精品白兰地\N{\fn微软雅黑}{\fs14}...fine Bordeaux.
+Dialogue: 0,0:18:57.04,0:18:58.69,*Default,,0,0,0,,是的  我喜欢这小镇的夜晚\N{\fn微软雅黑}{\fs14}Yes, I love a night on the town
+Dialogue: 0,0:18:58.69,0:19:01.21,*Default,,0,0,0,,现1度还下着雨\N{\fn微软雅黑}{\fs14}when it's 34 degrees and raining.
+Dialogue: 0,0:19:29.28,0:19:31.86,*Default,,0,0,0,,吉恩·凯利  你这混蛋\N{\fn微软雅黑}{\fs14}Fuck Gene Kelly, you motherfucker!
+Dialogue: 0,0:19:36.11,0:19:42.72,*Default,,0,0,0,,{\an8\bord0\fs18\b1}玛·安酒吧
+Dialogue: 0,0:20:20.02,0:20:20.99,*Default,,0,0,0,,戴安\N{\fn微软雅黑}{\fs14}Diane.
+Dialogue: 0,0:20:34.84,0:20:36.21,*Default,,0,0,0,,你好  艾伯特\N{\fn微软雅黑}{\fs14}Hello, Albert.
+Dialogue: 0,0:20:44.56,0:20:46.28,*Default,,0,0,0,,{\an8\bord0\fs18\b1}华盛顿
+Dialogue: 0,0:21:05.05,0:21:06.91,*Default,,0,0,0,,操\N{\fn微软雅黑}{\fs14}Ah, shit.
+Dialogue: 0,0:21:21.50,0:21:23.70,*Default,,0,0,0,,这真是\N{\fn微软雅黑}{\fs14}That is... whoo!
+Dialogue: 0,0:21:25.40,0:21:27.36,*Default,,0,0,0,,没错  很爽吧\N{\fn微软雅黑}{\fs14}That's right, small time.
+Dialogue: 0,0:21:28.58,0:21:29.80,*Default,,0,0,0,,你可以\N{\fn微软雅黑}{\fs14}You can, uh,
+Dialogue: 0,0:21:30.16,0:21:32.95,*Default,,0,0,0,,你可以在玛丽·安那里把剩下的都拿了\N{\fn微软雅黑}{\fs14}you can pick the rest of it up at Mary Ann's.
+Dialogue: 0,0:21:33.52,0:21:34.96,*Default,,0,0,0,,你怎么知道那名字\N{\fn微软雅黑}{\fs14}How'd you know that name?
+Dialogue: 0,0:21:36.25,0:21:37.57,*Default,,0,0,0,,你知道那地方吗\N{\fn微软雅黑}{\fs14}You know the area?
+Dialogue: 0,0:21:43.49,0:21:44.31,*Default,,0,0,0,,操\N{\fn微软雅黑}{\fs14}Shit.
+Dialogue: 0,0:21:45.47,0:21:47.48,*Default,,0,0,0,,这玩意劲真大\N{\fn微软雅黑}{\fs14}Oh, tha--this stuff kicks.
+Dialogue: 0,0:21:56.10,0:21:58.29,*Default,,0,0,0,,你有研究过你的手吗\N{\fn微软雅黑}{\fs14}Have you ever studied your hand?
+Dialogue: 0,0:22:12.44,0:22:13.37,*Default,,0,0,0,,你觉得怎么样\N{\fn微软雅黑}{\fs14}What do you think?
+Dialogue: 0,0:22:15.41,0:22:17.38,*Default,,0,0,0,,过去的几个星期我一直待在这里\N{\fn微软雅黑}{\fs14}I've been all around here last couple of weeks.
+Dialogue: 0,0:22:17.38,0:22:18.65,*Default,,0,0,0,,我\N{\fn微软雅黑}{\fs14}I, uh...
+Dialogue: 0,0:22:23.18,0:22:24.16,*Default,,0,0,0,,我喜欢这里\N{\fn微软雅黑}{\fs14}I like it.
+Dialogue: 0,0:22:27.36,0:22:29.49,*Default,,0,0,0,,我们可以  我们可以把那东西\N{\fn微软雅黑}{\fs14}We can-- we can move the sparkle
+Dialogue: 0,0:22:29.49,0:22:31.03,*Default,,0,0,0,,直接从加拿大拿过来\N{\fn微软雅黑}{\fs14}right down from Canada.
+Dialogue: 0,0:22:31.83,0:22:32.63,*Default,,0,0,0,,是的\N{\fn微软雅黑}{\fs14}Yeah.
+Dialogue: 0,0:22:39.77,0:22:41.56,*Default,,0,0,0,,我的肝有点问题\N{\fn微软雅黑}{\fs14}I got a problem with my liver.
+Dialogue: 0,0:22:47.02,0:22:48.51,*Default,,0,0,0,,这些小城镇的人\N{\fn微软雅黑}{\fs14}These fucking little towns,
+Dialogue: 0,0:22:48.51,0:22:50.21,*Default,,0,0,0,,很容易搞定的  不是吗\N{\fn微软雅黑}{\fs14}they're a pushover, right?
+Dialogue: 0,0:22:50.21,0:22:52.59,*Default,,0,0,0,,执法的人都是浑浑噩噩的\N{\fn微软雅黑}{\fs14}Law enforcement's asleep at the wheel.
+Dialogue: 0,0:22:53.30,0:22:56.08,*Default,,0,0,0,,这里的警长好像90岁来着\N{\fn微软雅黑}{\fs14}Fuckin' sheriff here is like 90 years old or something.
+Dialogue: 0,0:23:05.33,0:23:07.28,*Default,,0,0,0,,你看过《国王与我》这部电影吗\N{\fn微软雅黑}{\fs14}Did you ever the see the movie The King and I?
+Dialogue: 0,0:23:10.46,0:23:11.24,*Default,,0,0,0,,什么\N{\fn微软雅黑}{\fs14}What?
+Dialogue: 0,0:23:16.57,0:23:17.99,*Default,,0,0,0,,我喜欢那电影\N{\fn微软雅黑}{\fs14}I said I like it.
+Dialogue: 0,0:23:21.12,0:23:22.13,*Default,,0,0,0,,你怎么看\N{\fn微软雅黑}{\fs14}What do you think?
+Dialogue: 0,0:23:30.37,0:23:31.36,*Default,,0,0,0,,你\N{\fn微软雅黑}{\fs14}You, uh,
+Dialogue: 0,0:23:32.85,0:23:34.48,*Default,,0,0,0,,你把局面控制住了吗\N{\fn微软雅黑}{\fs14}you got this under control?
+Dialogue: 0,0:23:35.95,0:23:36.70,*Default,,0,0,0,,控制住了\N{\fn微软雅黑}{\fs14}Yeah.
+Dialogue: 0,0:23:40.43,0:23:41.51,*Default,,0,0,0,,最好是这样\N{\fn微软雅黑}{\fs14}You better have.
+Dialogue: 0,0:23:47.01,0:23:50.09,*Default,,0,0,0,,还有一个问题\N{\fn微软雅黑}{\fs14}There's--there's one problem.
+Dialogue: 0,0:23:53.28,0:23:54.82,*Default,,0,0,0,,我还不了解你\N{\fn微软雅黑}{\fs14}I don't know you yet.
+Dialogue: 0,0:24:03.15,0:24:04.61,*Default,,0,0,0,,我会盯着你的  小子\N{\fn微软雅黑}{\fs14}I'm gonna be watching you, kid.
+Dialogue: 0,0:24:05.83,0:24:06.81,*Default,,0,0,0,,盯着你\N{\fn微软雅黑}{\fs14}I'm watching you.
+Dialogue: 0,0:24:07.07,0:24:07.87,*Default,,0,0,0,,明白了吗\N{\fn微软雅黑}{\fs14}Got that?
+Dialogue: 0,0:24:09.36,0:24:10.14,*Default,,0,0,0,,是\N{\fn微软雅黑}{\fs14}Yeah.
+Dialogue: 0,0:24:11.44,0:24:12.49,*Default,,0,0,0,,我明白了\N{\fn微软雅黑}{\fs14}I got it.
+Dialogue: 0,0:24:13.38,0:24:14.79,*Default,,0,0,0,,别叫我"小子"\N{\fn微软雅黑}{\fs14}Don't call me "kid."
+Dialogue: 0,0:24:23.52,0:24:28.09,*Default,,0,0,0,,记住这个\N{\fn微软雅黑}{\fs14}Just-- just remember this,
+Dialogue: 0,0:24:29.65,0:24:30.76,*Default,,0,0,0,,小子...\N{\fn微软雅黑}{\fs14}kid...
+Dialogue: 0,0:24:33.74,0:24:36.67,*Default,,0,0,0,,我会看着你脑袋开花\N{\fn微软雅黑}{\fs14}...I will saw your head open
+Dialogue: 0,0:24:37.54,0:24:39.46,*Default,,0,0,0,,然后吃掉你的脑花\N{\fn微软雅黑}{\fs14}and eat your brains
+Dialogue: 0,0:24:39.67,0:24:41.39,*Default,,0,0,0,,如果你把事办砸了\N{\fn微软雅黑}{\fs14}if you fuck me over.
+Dialogue: 0,0:24:47.75,0:24:49.18,*Default,,0,0,0,,走着瞧\N{\fn微软雅黑}{\fs14}You can count on that.
+Dialogue: 0,0:26:26.90,0:26:28.13,*Default,,0,0,0,,这是你\N{\fn微软雅黑}{\fs14}This is you.
+Dialogue: 0,0:26:38.59,0:26:39.66,*Default,,0,0,0,,这是我\N{\fn微软雅黑}{\fs14}This is me.
+Dialogue: 0,0:26:44.72,0:26:46.16,*Default,,0,0,0,,正  我赢\N{\fn微软雅黑}{\fs14}Heads, I win.
+Dialogue: 0,0:26:49.54,0:26:51.13,*Default,,0,0,0,,反  你输\N{\fn微软雅黑}{\fs14}Tails, you lose.
+Dialogue: 0,0:27:03.65,0:27:04.49,*Default,,0,0,0,,"小子"\N{\fn微软雅黑}{\fs14}"Kid."
+Dialogue: 0,0:27:05.00,0:27:06.37,*Default,,0,0,0,,去你妈的\N{\fn微软雅黑}{\fs14}Fuck you, man!
+Dialogue: 0,0:27:11.84,0:27:14.19,*Default,,0,0,0,,冷静  冷静\N{\fn微软雅黑}{\fs14}Come on. Come on.
+Dialogue: 0,0:27:15.36,0:27:18.16,*Default,,0,0,0,,冷静  冷静\N{\fn微软雅黑}{\fs14}Come on. Come on.
+Dialogue: 0,0:27:24.23,0:27:25.31,*Default,,0,0,0,,早上好  比尔\N{\fn微软雅黑}{\fs14}Morning, Bill.
+Dialogue: 0,0:27:27.83,0:27:28.95,*Default,,0,0,0,,卡尔\N{\fn微软雅黑}{\fs14}Hey, Carl!
+Dialogue: 0,0:27:31.08,0:27:31.89,*Default,,0,0,0,,什么事\N{\fn微软雅黑}{\fs14}Yeah?
+Dialogue: 0,0:27:33.05,0:27:34.96,*Default,,0,0,0,,能载我去趟城里吗\N{\fn微软雅黑}{\fs14}Can I get a ride with you into town?
+Dialogue: 0,0:27:34.96,0:27:37.78,*Default,,0,0,0,,我得去邮局取琳达的邮件\N{\fn微软雅黑}{\fs14}I-I gotta pick up Linda's mail at the P.O.
+Dialogue: 0,0:27:38.19,0:27:39.50,*Default,,0,0,0,,没问题  米基\N{\fn微软雅黑}{\fs14}Sure, Mickey.
+Dialogue: 0,0:27:41.03,0:27:41.86,*Default,,0,0,0,,比尔\N{\fn微软雅黑}{\fs14}Bill.
+Dialogue: 0,0:27:54.64,0:27:56.51,*Default,,0,0,0,,早上景色真不错  不是吗\N{\fn微软雅黑}{\fs14}Beautiful morning, huh?
+Dialogue: 0,0:28:09.40,0:28:11.48,*Default,,0,0,0,,你\N{\fn微软雅黑}{\fs14}You, uh,
+Dialogue: 0,0:28:11.74,0:28:15.02,*Default,,0,0,0,,你每天都这个时候进城 不是吗\N{\fn微软雅黑}{\fs14}you go into town about this time every day, don't you?
+Dialogue: 0,0:28:15.18,0:28:16.07,*Default,,0,0,0,,差不多吧\N{\fn微软雅黑}{\fs14}Damn near.
+Dialogue: 0,0:28:16.08,0:28:17.52,*Default,,0,0,0,,为什么\N{\fn微软雅黑}{\fs14}How come?
+Dialogue: 0,0:28:18.44,0:28:20.86,*Default,,0,0,0,,我可以离开这个拖车公园\N{\fn微软雅黑}{\fs14}Gets me out of this trailer park.
+Dialogue: 0,0:28:22.61,0:28:26.12,*Default,,0,0,0,,我这个年纪已经没有什么念想了  米基\N{\fn微软雅黑}{\fs14}Not much I got to look forward to at my age, Mickey,
+Dialogue: 0,0:28:26.72,0:28:29.04,*Default,,0,0,0,,每天就是等死\N{\fn微软雅黑}{\fs14}except the hammer slamming down.
+Dialogue: 0,0:28:29.04,0:28:30.99,*Default,,0,0,0,,别这么说  卡尔\N{\fn微软雅黑}{\fs14}Don't say that, Carl.
+Dialogue: 0,0:28:31.11,0:28:33.37,*Default,,0,0,0,,你还有很长的路要走呢\N{\fn微软雅黑}{\fs14}You know, you got a lot of tread left.
+Dialogue: 0,0:28:34.37,0:28:35.93,*Default,,0,0,0,,琳达怎么样了\N{\fn微软雅黑}{\fs14}How's Linda?
+Dialogue: 0,0:28:36.64,0:28:38.58,*Default,,0,0,0,,好多了\N{\fn微软雅黑}{\fs14}She's doing a lot better.
+Dialogue: 0,0:28:38.75,0:28:40.81,*Default,,0,0,0,,终于要政府部门送来了\N{\fn微软雅黑}{\fs14}Got the government agencies to finally get
+Dialogue: 0,0:28:40.81,0:28:43.86,*Default,,0,0,0,,一台电动轮椅\N{\fn微软雅黑}{\fs14}one of them electric wheelchairs.
+Dialogue: 0,0:28:44.39,0:28:46.17,*Default,,0,0,0,,该死的战争\N{\fn微软雅黑}{\fs14}Fuckin' war.
+Dialogue: 0,0:28:48.25,0:28:50.24,*Default,,0,0,0,,政府在照顾你  是吗\N{\fn微软雅黑}{\fs14}So the government's taking care of you, huh?
+Dialogue: 0,0:28:50.24,0:28:51.88,*Default,,0,0,0,,没多大帮助\N{\fn微软雅黑}{\fs14}Not hardly.
+Dialogue: 0,0:28:51.94,0:28:55.41,*Default,,0,0,0,,我们花了六个月才要到这个轮椅\N{\fn微软雅黑}{\fs14}Took us about six months to get this wheelchair for her.
+Dialogue: 0,0:28:56.94,0:28:59.12,*Default,,0,0,0,,该死的政府\N{\fn微软雅黑}{\fs14}Fuckin' government.
+Dialogue: 0,0:29:07.25,0:29:08.56,*Default,,0,0,0,,想抽烟吗\N{\fn微软雅黑}{\fs14}Want a smoke?
+Dialogue: 0,0:29:08.56,0:29:09.91,*Default,,0,0,0,,想\N{\fn微软雅黑}{\fs14}Yeah.
+Dialogue: 0,0:29:11.21,0:29:13.11,*Default,,0,0,0,,想抽  但我已经戒烟了\N{\fn微软雅黑}{\fs14}Yeah, but I quit.
+Dialogue: 0,0:29:14.95,0:29:16.12,*Default,,0,0,0,,戒烟\N{\fn微软雅黑}{\fs14}Quit?
+Dialogue: 0,0:29:16.12,0:29:17.30,*Default,,0,0,0,,是的\N{\fn微软雅黑}{\fs14}Yeah.
+Dialogue: 0,0:29:17.30,0:29:19.41,*Default,,0,0,0,,大约一年前就戒了\N{\fn微软雅黑}{\fs14}Quit about a year ago.
+Dialogue: 0,0:29:22.59,0:29:25.16,*Default,,0,0,0,,我抽了75年的烟了\N{\fn微软雅黑}{\fs14}I've been smoking for 75 years,
+Dialogue: 0,0:29:25.16,0:29:27.01,*Default,,0,0,0,,每天都抽\N{\fn微软雅黑}{\fs14}every fucking day.
+Dialogue: 0,0:29:37.77,0:29:39.55,*Default,,0,0,0,,有人路过那间商店时  我心想\N{\fn微软雅黑}{\fs14}So when I pass that shop, I say,
+Dialogue: 0,0:29:39.55,0:29:42.48,*Default,,0,0,0,,"不知他们有没有写了我名字的杯子蛋糕"\N{\fn微软雅黑}{\fs14}"Oh, I wonder if they have a cupcake with my name on it."
+Dialogue: 0,0:29:42.48,0:29:45.33,*Default,,0,0,0,,我进店一看  他们果然有\N{\fn微软雅黑}{\fs14}And when I go in, sure enough, they have it.
+Dialogue: 0,0:29:45.72,0:29:47.60,*Default,,0,0,0,,很神奇\N{\fn微软雅黑}{\fs14}It's magic.
+Dialogue: 0,0:29:48.32,0:29:50.76,*Default,,0,0,0,,我路过双R餐厅时  心想\N{\fn微软雅黑}{\fs14}And when I pass by the Double R, I say,
+Dialogue: 0,0:29:50.76,0:29:52.02,*Default,,0,0,0,,"不知他们有没有\N{\fn微软雅黑}{\fs14}"Hm, I wonder if they have
+Dialogue: 0,0:29:52.02,0:29:53.82,*Default,,0,0,0,,写了我名字的樱桃派"\N{\fn微软雅黑}{\fs14}a slice of cherry pie with my name on it."
+Dialogue: 0,0:29:53.82,0:29:56.63,*Default,,0,0,0,,我一进店  你们果真也有\N{\fn微软雅黑}{\fs14}And when I come in, sure enough, you have it.
+Dialogue: 0,0:29:57.14,0:29:58.82,*Default,,0,0,0,,今天你们有两块\N{\fn微软雅黑}{\fs14}Today you had two pieces of pie
+Dialogue: 0,0:29:58.82,0:30:00.96,*Default,,0,0,0,,写了我名字的派  两块我都要了\N{\fn微软雅黑}{\fs14}with my name on it, each one.
+Dialogue: 0,0:30:01.87,0:30:03.50,*Default,,0,0,0,,米里亚姆  我发现\N{\fn微软雅黑}{\fs14}Well, Miriam, it turns out
+Dialogue: 0,0:30:03.50,0:30:06.89,*Default,,0,0,0,,你是我们店有史以来的最佳买派的顾客\N{\fn微软雅黑}{\fs14}you're one of our best pie customers ever.
+Dialogue: 0,0:30:06.89,0:30:08.62,*Default,,0,0,0,,因为诺玛做的派最好吃\N{\fn微软雅黑}{\fs14}Because Norma makes the best pies.
+Dialogue: 0,0:30:08.62,0:30:10.11,*Default,,0,0,0,,那是当然\N{\fn微软雅黑}{\fs14}She sure does.
+Dialogue: 0,0:30:10.11,0:30:12.60,*Default,,0,0,0,,对了  我能买两杯咖啡带走吗\N{\fn微软雅黑}{\fs14}Oh, hey, can I get two cups of coffee to go?
+Dialogue: 0,0:30:12.60,0:30:14.19,*Default,,0,0,0,,我的那杯要低咖啡因的\N{\fn微软雅黑}{\fs14}One decaf for me and one regular
+Dialogue: 0,0:30:14.20,0:30:16.20,*Default,,0,0,0,,一杯常规的给我妈  她超爱双R餐厅的咖啡\N{\fn微软雅黑}{\fs14}for one of the moms who loves Double R coffee?
+Dialogue: 0,0:30:16.20,0:30:17.94,*Default,,0,0,0,,-马上来  -太好了\N{\fn微软雅黑}{\fs14}- Coming right up. - Excellent.
+Dialogue: 0,0:30:17.94,0:30:19.85,*Default,,0,0,0,,学校怎么样了  米里亚姆\N{\fn微软雅黑}{\fs14}How is school, Miriam?
+Dialogue: 0,0:30:20.12,0:30:23.07,*Default,,0,0,0,,今年学校里的孩子都很可爱\N{\fn微软雅黑}{\fs14}Oh, the kids this year are so cute.
+Dialogue: 0,0:30:28.54,0:30:30.60,*Default,,0,0,0,,好了  给你\N{\fn微软雅黑}{\fs14}Okay, here you go.
+Dialogue: 0,0:30:31.47,0:30:34.01,*Default,,0,0,0,,不用找了  给你们俩的小费\N{\fn微软雅黑}{\fs14}Keep the change. The tip is for you all.
+Dialogue: 0,0:30:34.01,0:30:35.56,*Default,,0,0,0,,谢谢你  米里亚姆\N{\fn微软雅黑}{\fs14}Oh, thank you, Miriam.
+Dialogue: 0,0:30:35.56,0:30:37.49,*Default,,0,0,0,,-谢谢你  米里亚姆  -再见\N{\fn微软雅黑}{\fs14}- Thank you, Miriam. - Bye.
+Dialogue: 0,0:30:42.32,0:30:44.42,*Default,,0,0,0,,她没这么阔气能给这么多小费\N{\fn微软雅黑}{\fs14}She can't afford to leave a tip like that.
+Dialogue: 0,0:30:44.42,0:30:46.44,*Default,,0,0,0,,我知道  可怜的人儿\N{\fn微软雅黑}{\fs14}I know. Poor thing.
+Dialogue: 0,0:30:46.44,0:30:49.34,*Default,,0,0,0,,但她真的很喜欢我们的派\N{\fn微软雅黑}{\fs14}But she just loves our pies.
+Dialogue: 0,0:30:49.38,0:30:51.25,*Default,,0,0,0,,知道吗  下次  咱们请她吃\N{\fn微软雅黑}{\fs14}You know what? Next time, let's treat her.
+Dialogue: 0,0:30:51.26,0:30:54.14,*Default,,0,0,0,,行啊  太好了  好主意\N{\fn微软雅黑}{\fs14}Oh, yeah, great. Great idea.
+Dialogue: 0,0:30:57.19,0:30:59.60,*Default,,0,0,0,,白痴耍魔术的\N{\fn微软雅黑}{\fs14}Stupid magic motherfucker.
+Dialogue: 0,0:31:03.28,0:31:05.34,*Default,,0,0,0,,"小子"\N{\fn微软雅黑}{\fs14}Ha, yeah, "kid"?
+Dialogue: 0,0:31:05.94,0:31:08.01,*Default,,0,0,0,,我要给你们看看小子的本事\N{\fn微软雅黑}{\fs14}I'll show you fucking kid.
+Dialogue: 0,0:31:58.76,0:32:00.12,*Default,,0,0,0,,抓住你了\N{\fn微软雅黑}{\fs14}Got ya.
+Dialogue: 0,0:32:36.12,0:32:37.57,*Default,,0,0,0,,什么玩意\N{\fn微软雅黑}{\fs14}What the fuck?
+Dialogue: 0,0:32:37.85,0:32:39.31,*Default,,0,0,0,,去他妈的\N{\fn微软雅黑}{\fs14}Fuck this.
+Dialogue: 0,0:32:44.62,0:32:45.66,*Default,,0,0,0,,{\an8\bord0\fs18\b1}全路禁止通行
+Dialogue: 0,0:32:59.83,0:33:02.41,*Default,,0,0,0,,不\N{\fn微软雅黑}{\fs14}No!
+Dialogue: 0,0:33:03.45,0:33:06.53,*Default,,0,0,0,,不\N{\fn微软雅黑}{\fs14}No!
+Dialogue: 0,0:33:13.95,0:33:15.91,*Default,,0,0,0,,不\N{\fn微软雅黑}{\fs14}Oh, no.
+Dialogue: 0,0:33:15.91,0:33:17.81,*Default,,0,0,0,,不\N{\fn微软雅黑}{\fs14}No.
+Dialogue: 0,0:33:19.74,0:33:22.54,*Default,,0,0,0,,天啊\N{\fn微软雅黑}{\fs14}Oh, God.
+Dialogue: 0,0:33:22.78,0:33:24.38,*Default,,0,0,0,,我都说了\N{\fn微软雅黑}{\fs14}Hey! Hey, I told you
+Dialogue: 0,0:33:24.39,0:33:26.43,*Default,,0,0,0,,不要挡我的路\N{\fn微软雅黑}{\fs14}to get out of the fucking way!
+Dialogue: 0,0:33:44.79,0:33:47.80,*Default,,0,0,0,,不\N{\fn微软雅黑}{\fs14}No.
+Dialogue: 0,0:34:18.80,0:34:20.59,*Default,,0,0,0,,天啊\N{\fn微软雅黑}{\fs14}God.
+Dialogue: 0,0:37:08.31,0:37:09.53,*Default,,0,0,0,,格雷戈\N{\fn微软雅黑}{\fs14}Greg!
+Dialogue: 0,0:37:09.53,0:37:11.19,*Default,,0,0,0,,找到车牌了\N{\fn微软雅黑}{\fs14}I found the plate.
+Dialogue: 0,0:37:16.91,0:37:18.92,*Default,,0,0,0,,一一九\N{\fn微软雅黑}{\fs14}One-one-nine!
+Dialogue: 0,0:37:21.26,0:37:23.36,*Default,,0,0,0,,一一九\N{\fn微软雅黑}{\fs14}One-one-nine!
+Dialogue: 0,0:37:24.45,0:37:29.07,*Default,,0,0,0,,D U G E\N{\fn微软雅黑}{\fs14}David, union, George, Edward,
+Dialogue: 0,0:37:29.07,0:37:31.46,*Default,,0,0,0,,L V\N{\fn微软雅黑}{\fs14}Lincoln, victor.
+Dialogue: 0,0:37:32.18,0:37:33.26,*Default,,0,0,0,,写下来了吗\N{\fn微软雅黑}{\fs14}Copy?
+Dialogue: 0,0:37:33.45,0:37:34.69,*Default,,0,0,0,,写好了\N{\fn微软雅黑}{\fs14}Got it.
+Dialogue: 0,0:39:39.31,0:39:40.66,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie?
+Dialogue: 0,0:39:42.40,0:39:43.77,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie.
+Dialogue: 0,0:39:46.36,0:39:47.86,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie.
+Dialogue: 0,0:39:47.93,0:39:49.63,*Default,,0,0,0,,快别闹了\N{\fn微软雅黑}{\fs14}Quit clowning around.
+Dialogue: 0,0:39:52.01,0:39:53.42,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie--
+Dialogue: 0,0:39:59.16,0:40:00.49,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie.
+Dialogue: 0,0:40:10.89,0:40:12.35,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie.
+Dialogue: 0,0:40:12.92,0:40:14.33,*Default,,0,0,0,,快过来\N{\fn微软雅黑}{\fs14}Come on.
+Dialogue: 0,0:40:36.31,0:40:37.79,*Default,,0,0,0,,琼斯\N{\fn微软雅黑}{\fs14}Jones!
+Dialogue: 0,0:40:41.07,0:40:42.63,*Default,,0,0,0,,琼斯\N{\fn微软雅黑}{\fs14}Jones!
+Dialogue: 0,0:40:48.18,0:40:49.96,*Default,,0,0,0,,琼斯\N{\fn微软雅黑}{\fs14}Jones!
+Dialogue: 0,0:40:51.95,0:40:53.55,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie!
+Dialogue: 0,0:40:54.55,0:40:56.47,*Default,,0,0,0,,到我办公室来\N{\fn微软雅黑}{\fs14}In my office!
+Dialogue: 0,0:40:56.64,0:40:58.11,*Default,,0,0,0,,快点\N{\fn微软雅黑}{\fs14}Now!
+Dialogue: 0,0:42:02.98,0:42:04.52,*Default,,0,0,0,,这都是些\N{\fn微软雅黑}{\fs14}What the hell
+Dialogue: 0,0:42:04.52,0:42:07.34,*Default,,0,0,0,,什么乱七八糟的简笔画\N{\fn微软雅黑}{\fs14}are all these childish scribbles?
+Dialogue: 0,0:42:07.49,0:42:10.00,*Default,,0,0,0,,这我怎么能看得明白\N{\fn微软雅黑}{\fs14}H-how am I gonna make any sense out of this?
+Dialogue: 0,0:42:11.67,0:42:13.02,*Default,,0,0,0,,看...\N{\fn微软雅黑}{\fs14}Make...
+Dialogue: 0,0:42:13.62,0:42:15.41,*Default,,0,0,0,,...明白\N{\fn微软雅黑}{\fs14}...sense of it.
+Dialogue: 0,0:42:16.43,0:42:17.82,*Default,,0,0,0,,我觉得你真该\N{\fn微软雅黑}{\fs14}I'm thinking you may need
+Dialogue: 0,0:42:17.82,0:42:20.71,*Default,,0,0,0,,去找专业的医生帮帮你了  道吉\N{\fn微软雅黑}{\fs14}some good professional help, Dougie.
+Dialogue: 0,0:42:23.56,0:42:26.12,*Default,,0,0,0,,帮帮道吉\N{\fn微软雅黑}{\fs14}Help Dougie.
+Dialogue: 0,0:42:36.49,0:42:41.70,*Default,,0,0,0,,{\an8\bord0\fs18\b1}最强硬汉\N布什内尔·拳击新星·穆林斯
+Dialogue: 0,0:44:33.86,0:44:35.29,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie.
+Dialogue: 0,0:44:40.39,0:44:41.92,*Default,,0,0,0,,谢谢你\N{\fn微软雅黑}{\fs14}Thank you.
+Dialogue: 0,0:44:45.14,0:44:48.19,*Default,,0,0,0,,我希望你能不要再告诉别人\N{\fn微软雅黑}{\fs14}I want you to keep this information to yourself.
+Dialogue: 0,0:44:48.56,0:44:50.72,*Default,,0,0,0,,这事挺闹心的\N{\fn微软雅黑}{\fs14}This is disturbing.
+Dialogue: 0,0:44:51.02,0:44:52.75,*Default,,0,0,0,,也不只是闹心了\N{\fn微软雅黑}{\fs14}To say the least.
+Dialogue: 0,0:44:53.39,0:44:55.18,*Default,,0,0,0,,这些就交给我吧\N{\fn微软雅黑}{\fs14}I'll take it from here.
+Dialogue: 0,0:44:55.18,0:44:57.57,*Default,,0,0,0,,但我可能还会找你帮忙\N{\fn微软雅黑}{\fs14}But I may need your help again.
+Dialogue: 0,0:45:00.02,0:45:02.67,*Default,,0,0,0,,你可是又给我添了不少要办的事情啊\N{\fn微软雅黑}{\fs14}You've certainly given me a lot to think about.
+Dialogue: 0,0:45:06.61,0:45:08.35,*Default,,0,0,0,,办事情\N{\fn微软雅黑}{\fs14}Think about.
+Dialogue: 0,0:45:27.38,0:45:29.12,*Default,,0,0,0,,道吉\N{\fn微软雅黑}{\fs14}Dougie?
+Dialogue: 0,0:45:29.99,0:45:33.64,*Default,,0,0,0,,你真是...  挺有趣的\N{\fn微软雅黑}{\fs14}You're an-- an interesting fellow.
+Dialogue: 0,0:46:00.55,0:46:02.02,*Default,,0,0,0,,你是琼斯吗\N{\fn微软雅黑}{\fs14}You Jones?
+Dialogue: 0,0:46:02.02,0:46:03.95,*Default,,0,0,0,,是我  我们就直说了吧\N{\fn微软雅黑}{\fs14}Yes. Now let's get to it.
+Dialogue: 0,0:46:03.95,0:46:05.49,*Default,,0,0,0,,给我解释一下道吉到底干了什么\N{\fn微软雅黑}{\fs14}Explain to me exactly what Dougie did
+Dialogue: 0,0:46:05.49,0:46:07.16,*Default,,0,0,0,,才欠了你们的钱\N{\fn微软雅黑}{\fs14}to make him owe you money.
+Dialogue: 0,0:46:07.17,0:46:08.97,*Default,,0,0,0,,他借的\N{\fn微软雅黑}{\fs14}He borrowed it.
+Dialogue: 0,0:46:08.97,0:46:10.57,*Default,,0,0,0,,什么叫"他借的"\N{\fn微软雅黑}{\fs14}What do you mean, "He borrowed it"?
+Dialogue: 0,0:46:10.57,0:46:12.77,*Default,,0,0,0,,他赌了一场橄榄球赛\N{\fn微软雅黑}{\fs14}He took points on a football game.
+Dialogue: 0,0:46:12.77,0:46:14.61,*Default,,0,0,0,,后来胃口大了  加了双倍\N{\fn微软雅黑}{\fs14}He got greedy, he doubled down.
+Dialogue: 0,0:46:14.62,0:46:16.22,*Default,,0,0,0,,结果最后没赢\N{\fn微软雅黑}{\fs14}It didn't work out for him.
+Dialogue: 0,0:46:16.22,0:46:18.25,*Default,,0,0,0,,赔了两万  还有利息\N{\fn微软雅黑}{\fs14}Out 20 grand he was, plus interest.
+Dialogue: 0,0:46:18.25,0:46:20.07,*Default,,0,0,0,,这已经是三周前的事了\N{\fn微软雅黑}{\fs14}Now, that was three weeks ago.
+Dialogue: 0,0:46:20.20,0:46:22.07,*Default,,0,0,0,,利息还在加呢\N{\fn微软雅黑}{\fs14}Meter's still running.
+Dialogue: 0,0:46:22.07,0:46:23.75,*Default,,0,0,0,,已经涨到五万二了\N{\fn微软雅黑}{\fs14}It's up to 52.
+Dialogue: 0,0:46:23.75,0:46:26.03,*Default,,0,0,0,,先让我来捋一捋  有这么一场球赛\N{\fn微软雅黑}{\fs14}So let me get this straight. People were playing games.
+Dialogue: 0,0:46:26.03,0:46:28.30,*Default,,0,0,0,,他打了个赌输了两万\N{\fn微软雅黑}{\fs14}He made a bet where he lost $20,000.
+Dialogue: 0,0:46:28.30,0:46:31.24,*Default,,0,0,0,,然后你们想让他给五万二\N{\fn微软雅黑}{\fs14}But you want him to pay you back $52,000?
+Dialogue: 0,0:46:31.90,0:46:33.53,*Default,,0,0,0,,没错  是这样的\N{\fn微软雅黑}{\fs14}Very good. That's correct.
+Dialogue: 0,0:46:33.53,0:46:35.15,*Default,,0,0,0,,好吧  那你们听清楚了\N{\fn微软雅黑}{\fs14}Okay, so you get this straight.
+Dialogue: 0,0:46:35.15,0:46:37.16,*Default,,0,0,0,,我的丈夫有份工作  结了婚\N{\fn微软雅黑}{\fs14}My husband has a job; he has a wife;
+Dialogue: 0,0:46:37.16,0:46:39.15,*Default,,0,0,0,,还有个孩子  他挣的钱根本\N{\fn微软雅黑}{\fs14}he has a child; he does not make enough money
+Dialogue: 0,0:46:39.15,0:46:42.02,*Default,,0,0,0,,拿不出五万二  不管是干什么\N{\fn微软雅黑}{\fs14}to pay back $52,000 for anything.
+Dialogue: 0,0:46:42.80,0:46:44.14,*Default,,0,0,0,,我们算不上有钱\N{\fn微软雅黑}{\fs14}We are not wealthy people.
+Dialogue: 0,0:46:44.14,0:46:45.86,*Default,,0,0,0,,开的都是廉价的破车\N{\fn微软雅黑}{\fs14}We drive cheap, terrible cars.
+Dialogue: 0,0:46:45.86,0:46:47.45,*Default,,0,0,0,,我们就是些平民百姓\N{\fn微软雅黑}{\fs14}We are the 99 percenters.
+Dialogue: 0,0:46:47.45,0:46:48.70,*Default,,0,0,0,,我们已经被欺负的够多了\N{\fn微软雅黑}{\fs14}And we are shit on enough.
+Dialogue: 0,0:46:48.70,0:46:50.22,*Default,,0,0,0,,但我们绝对忍不了再听任\N{\fn微软雅黑}{\fs14}And we are certainly not gonna be shit on
+Dialogue: 0,0:46:50.22,0:46:51.38,*Default,,0,0,0,,你们这种人摆布\N{\fn微软雅黑}{\fs14}by the likes of you.
+Dialogue: 0,0:46:51.38,0:46:52.83,*Default,,0,0,0,,不过  女士...\N{\fn微软雅黑}{\fs14}Nevertheless, lady...
+Dialogue: 0,0:46:52.83,0:46:54.93,*Default,,0,0,0,,所以我们就这么办了\N{\fn微软雅黑}{\fs14}So here's what we're gonna do.
+Dialogue: 0,0:46:54.93,0:46:56.68,*Default,,0,0,0,,在我不知情的情况下  我丈夫找你们\N{\fn微软雅黑}{\fs14}Without my knowledge, my husband came to you
+Dialogue: 0,0:46:56.68,0:46:58.34,*Default,,0,0,0,,借了两万\N{\fn微软雅黑}{\fs14}for a loan of $20,000.
+Dialogue: 0,0:46:58.34,0:46:59.86,*Default,,0,0,0,,你们也很好心的借给他了\N{\fn微软雅黑}{\fs14}You were nice enough to give it to him.
+Dialogue: 0,0:46:59.86,0:47:01.92,*Default,,0,0,0,,但他决不该像这个样子赌钱\N{\fn微软雅黑}{\fs14}But he should never have been gambling like that.
+Dialogue: 0,0:47:01.92,0:47:03.17,*Default,,0,0,0,,我会把钱还给你们的\N{\fn微软雅黑}{\fs14}I'm gonna pay you back.
+Dialogue: 0,0:47:03.17,0:47:04.53,*Default,,0,0,0,,不过在银行里  我们就只挣\N{\fn微软雅黑}{\fs14}Now, at my bank, where we make
+Dialogue: 0,0:47:04.53,0:47:06.06,*Default,,0,0,0,,不到百分之一的利息\N{\fn微软雅黑}{\fs14}less than one percent interest
+Dialogue: 0,0:47:06.06,0:47:07.78,*Default,,0,0,0,,原本存的钱也不多\N{\fn微软雅黑}{\fs14}on what little money we have,
+Dialogue: 0,0:47:07.78,0:47:09.32,*Default,,0,0,0,,你借钱能要到百分之二十五的利息\N{\fn微软雅黑}{\fs14}people would be turning cartwheels
+Dialogue: 0,0:47:09.32,0:47:11.72,*Default,,0,0,0,,就该高兴到翻跟头了\N{\fn微软雅黑}{\fs14}just to get 25 percent interest on any loan,
+Dialogue: 0,0:47:11.72,0:47:13.10,*Default,,0,0,0,,这些就是我现在很大方的\N{\fn微软雅黑}{\fs14}and that is what I'm generously
+Dialogue: 0,0:47:13.10,0:47:14.34,*Default,,0,0,0,,准备给你们的数\N{\fn微软雅黑}{\fs14}gonna give to you right now,
+Dialogue: 0,0:47:14.34,0:47:17.15,*Default,,0,0,0,,两万五千块\N{\fn微软雅黑}{\fs14}$25,000.
+Dialogue: 0,0:47:17.15,0:47:19.85,*Default,,0,0,0,,这些就是我第一次  也是最后一次\N{\fn微软雅黑}{\fs14}That is my first, last,
+Dialogue: 0,0:47:20.22,0:47:22.75,*Default,,0,0,0,,会给你们的全部的钱  仅此一次\N{\fn微软雅黑}{\fs14}and only offer to you.
+Dialogue: 0,0:47:24.90,0:47:26.53,*Default,,0,0,0,,这究竟是个什么世道\N{\fn微软雅黑}{\fs14}What kind of world are we living in
+Dialogue: 0,0:47:26.53,0:47:27.93,*Default,,0,0,0,,才会有你们这种人\N{\fn微软雅黑}{\fs14}where people can behave like this?
+Dialogue: 0,0:47:27.93,0:47:29.04,*Default,,0,0,0,,竟能这个样子对别人\N{\fn微软雅黑}{\fs14}Treat other people this way
+Dialogue: 0,0:47:29.04,0:47:30.44,*Default,,0,0,0,,毫无恻隐之情\N{\fn微软雅黑}{\fs14}without any compassion
+Dialogue: 0,0:47:30.44,0:47:32.75,*Default,,0,0,0,,也不体谅他人的痛苦\N{\fn微软雅黑}{\fs14}or feeling for their suffering?
+Dialogue: 0,0:47:32.82,0:47:34.99,*Default,,0,0,0,,我们生存在一个无比黑暗的年代\N{\fn微软雅黑}{\fs14}We are living in a dark, dark age,
+Dialogue: 0,0:47:35.00,0:47:36.54,*Default,,0,0,0,,而你们\N{\fn微软雅黑}{\fs14}and you
+Dialogue: 0,0:47:36.67,0:47:38.45,*Default,,0,0,0,,也是问题根源的一部分\N{\fn微软雅黑}{\fs14}are part of the problem.
+Dialogue: 0,0:47:38.66,0:47:41.35,*Default,,0,0,0,,我建议你们好好看看你们自己\N{\fn微软雅黑}{\fs14}Now, I suggest you take a good, long look at yourselves
+Dialogue: 0,0:47:41.35,0:47:44.42,*Default,,0,0,0,,因为我再也不想看到你们了\N{\fn微软雅黑}{\fs14}because I never want to see either of you again.
+Dialogue: 0,0:47:57.82,0:48:00.13,*Default,,0,0,0,,这小妞真狠\N{\fn微软雅黑}{\fs14}Tough dame.
+Dialogue: 0,0:48:00.51,0:48:02.10,*Default,,0,0,0,,真狠\N{\fn微软雅黑}{\fs14}Tough.
+Dialogue: 0,0:48:03.62,0:48:07.66,*Default,,0,0,0,,什么叫他不在车里  三具尸体\N{\fn微软雅黑}{\fs14}What do you mean he wasn't in the car? Three bodies?
+Dialogue: 0,0:49:03.92,0:49:05.40,*Default,,0,0,0,,不\N{\fn微软雅黑}{\fs14}Oh, no.
+Dialogue: 0,0:49:38.06,0:49:39.38,*Default,,0,0,0,,操\N{\fn微软雅黑}{\fs14}Fuck!
+Dialogue: 0,0:51:01.52,0:51:05.30,*Default,,0,0,0,,{\an8\bord0\fs18\b1}奈兹·珀斯制造
+Dialogue: 0,0:52:06.69,0:52:08.08,*Default,,0,0,0,,你干什么\N{\fn微软雅黑}{\fs14}The hell?
+Dialogue: 0,0:52:08.40,0:52:10.48,*Default,,0,0,0,,上女厕所  查德\N{\fn微软雅黑}{\fs14}Use the ladies' room, Chad.
+Dialogue: 0,0:52:11.15,0:52:12.69,*Default,,0,0,0,,你在干什么\N{\fn微软雅黑}{\fs14}The hell are you doing?
+Dialogue: 0,0:52:12.87,0:52:13.95,*Default,,0,0,0,,拜托  查德\N{\fn微软雅黑}{\fs14}Please, Chad,
+Dialogue: 0,0:52:13.95,0:52:15.84,*Default,,0,0,0,,去别的隔间上厕所\N{\fn微软雅黑}{\fs14}use another restroom.
+Dialogue: 0,0:52:18.73,0:52:20.52,*Default,,0,0,0,,你和警长说过了吗\N{\fn微软雅黑}{\fs14}Clear this with the sheriff?
+Dialogue: 0,0:52:25.09,0:52:26.84,*Default,,0,0,0,,你不说的话我说\N{\fn微软雅黑}{\fs14}I'll tell him if you don't.
+Dialogue: 0,0:52:28.22,0:52:30.31,*Default,,0,0,0,,去说吧  查德\N{\fn微软雅黑}{\fs14}Yeah, you do that, Chad.
+Dialogue: 0,0:53:03.35,0:53:05.54,*Default,,0,0,0,,写报告一点都没意思  伙计们\N{\fn微软雅黑}{\fs14}Filling out paperwork's no fun, fellows.
+Dialogue: 0,0:53:05.54,0:53:08.50,*Default,,0,0,0,,我知道  但是总得写\N{\fn微软雅黑}{\fs14}I know that, but, uh, gotta be done.
+Dialogue: 0,0:53:08.74,0:53:11.35,*Default,,0,0,0,,等你做完...这堆破事\N{\fn微软雅黑}{\fs14}And when you finish... That motherfucking piece of shit.
+Dialogue: 0,0:53:11.35,0:53:12.92,*Default,,0,0,0,,我要你处理...\N{\fn微软雅黑}{\fs14}...I want you to handle that...
+Dialogue: 0,0:53:12.92,0:53:16.17,*Default,,0,0,0,,惊喜吧  惊喜吧\N{\fn微软雅黑}{\fs14}Well, surprise, surprise!
+Dialogue: 0,0:53:16.45,0:53:19.00,*Default,,0,0,0,,没有修好\N{\fn微软雅黑}{\fs14}It's not fixed!
+Dialogue: 0,0:53:19.00,0:53:20.09,*Default,,0,0,0,,怎么了  多丽丝\N{\fn微软雅黑}{\fs14}What's that, Doris?
+Dialogue: 0,0:53:20.09,0:53:21.63,*Default,,0,0,0,,爸爸的车\N{\fn微软雅黑}{\fs14}Dad's car.
+Dialogue: 0,0:53:21.63,0:53:23.12,*Default,,0,0,0,,今天早上他要开\N{\fn微软雅黑}{\fs14}This morning he went to drive,
+Dialogue: 0,0:53:23.12,0:53:25.51,*Default,,0,0,0,,根本开不出车道  弗兰克\N{\fn微软雅黑}{\fs14}couldn't even get it out of the driveway, Frank!
+Dialogue: 0,0:53:25.51,0:53:27.66,*Default,,0,0,0,,只会一晃一晃\N{\fn微软雅黑}{\fs14}It just lurched and lurched.
+Dialogue: 0,0:53:27.66,0:53:30.78,*Default,,0,0,0,,他应该没有放手刹吧\N{\fn微软雅黑}{\fs14}Sounds like he left the emergency brake on.
+Dialogue: 0,0:53:30.79,0:53:33.36,*Default,,0,0,0,,你是说我爸爸不知道怎么开车吗\N{\fn微软雅黑}{\fs14}Are you telling me my father doesn't know how to drive a car?
+Dialogue: 0,0:53:33.36,0:53:34.47,*Default,,0,0,0,,你是想说这个吗\N{\fn微软雅黑}{\fs14}Is that what you're telling me?
+Dialogue: 0,0:53:34.47,0:53:35.92,*Default,,0,0,0,,你别想\N{\fn微软雅黑}{\fs14}Don't you dare,
+Dialogue: 0,0:53:35.92,0:53:38.30,*Default,,0,0,0,,你别想把这开不了的破车\N{\fn微软雅黑}{\fs14}don't you dare try to blame my father
+Dialogue: 0,0:53:38.30,0:53:39.97,*Default,,0,0,0,,怪到我爸爸头上\N{\fn微软雅黑}{\fs14}for that car not running right!
+Dialogue: 0,0:53:39.97,0:53:41.55,*Default,,0,0,0,,如果能让你好受点\N{\fn微软雅黑}{\fs14}We'll get it looked at again
+Dialogue: 0,0:53:41.55,0:53:42.48,*Default,,0,0,0,,我们就再找人来看看\N{\fn微软雅黑}{\fs14}if it'll make you feel better.
+Dialogue: 0,0:53:42.48,0:53:44.93,*Default,,0,0,0,,好受点  好受点\N{\fn微软雅黑}{\fs14}Feel better? Feel better?
+Dialogue: 0,0:53:45.23,0:53:49.24,*Default,,0,0,0,,为什么  你为什么老和我对着干  弗兰克\N{\fn微软雅黑}{\fs14}Why, why are you always against me, Frank?
+Dialogue: 0,0:53:49.24,0:53:50.88,*Default,,0,0,0,,去我办公室吧\N{\fn微软雅黑}{\fs14}Let's go to my office.
+Dialogue: 0,0:53:50.88,0:53:53.74,*Default,,0,0,0,,他们修得太差了\N{\fn微软雅黑}{\fs14}They did a lousy job fixing that car.
+Dialogue: 0,0:53:53.74,0:53:55.30,*Default,,0,0,0,,他们得修好\N{\fn微软雅黑}{\fs14}They have to make it right,
+Dialogue: 0,0:53:55.30,0:53:57.35,*Default,,0,0,0,,不然我们就不付钱\N{\fn微软雅黑}{\fs14}or we're not paying them until they do!
+Dialogue: 0,0:53:57.35,0:54:00.35,*Default,,0,0,0,,换我可不会受她这种鸟气\N{\fn微软雅黑}{\fs14}I sure wouldn't take that kind of shit off her.
+Dialogue: 0,0:54:02.88,0:54:04.25,*Default,,0,0,0,,怎么了\N{\fn微软雅黑}{\fs14}What?
+Dialogue: 0,0:54:05.12,0:54:07.54,*Default,,0,0,0,,你根本不知道你自己在说什么\N{\fn微软雅黑}{\fs14}You don't know what you're talking about.
+Dialogue: 0,0:54:07.79,0:54:10.32,*Default,,0,0,0,,是吗  怎么说\N{\fn微软雅黑}{\fs14}Oh, yeah? How's that?
+Dialogue: 0,0:54:12.06,0:54:13.56,*Default,,0,0,0,,算了\N{\fn微软雅黑}{\fs14}Forget it.
+Dialogue: 0,0:54:13.59,0:54:14.90,*Default,,0,0,0,,怎么了\N{\fn微软雅黑}{\fs14}What's the matter?
+Dialogue: 0,0:54:14.90,0:54:16.75,*Default,,0,0,0,,这是个自由的世界\N{\fn微软雅黑}{\fs14}It's a free world.
+Dialogue: 0,0:54:17.06,0:54:18.77,*Default,,0,0,0,,我能表达我的观点\N{\fn微软雅黑}{\fs14}I can voice my opinion.
+Dialogue: 0,0:54:18.77,0:54:20.07,*Default,,0,0,0,,你当然可以\N{\fn微软雅黑}{\fs14}Oh, you sure can.
+Dialogue: 0,0:54:20.07,0:54:22.38,*Default,,0,0,0,,哥们儿\N{\fn微软雅黑}{\fs14}Oh, brother.
+Dialogue: 0,0:54:22.38,0:54:24.66,*Default,,0,0,0,,她以前不是这样的\N{\fn微软雅黑}{\fs14}She didn't use to be like this.
+Dialogue: 0,0:54:24.66,0:54:27.12,*Default,,0,0,0,,你不知道他们儿子自杀了吗\N{\fn微软雅黑}{\fs14}You didn't know that their son committed suicide?
+Dialogue: 0,0:54:27.13,0:54:29.33,*Default,,0,0,0,,我听说过\N{\fn微软雅黑}{\fs14}Yeah, I heard something about that.
+Dialogue: 0,0:54:29.91,0:54:33.72,*Default,,0,0,0,,他受不了成为士兵\N{\fn微软雅黑}{\fs14}He couldn't take being a soldier.
+Dialogue: 0,0:54:43.76,0:54:46.64,*Default,,0,0,0,,警局  有什么紧急情况\N{\fn微软雅黑}{\fs14}Sheriff's Department. What's your emergency?
+Dialogue: 0,0:54:47.98,0:54:49.81,*Default,,0,0,0,,你在哪里\N{\fn微软雅黑}{\fs14}Where's your location?
+Dialogue: 0,0:54:52.70,0:54:54.55,*Default,,0,0,0,,你电话多少\N{\fn微软雅黑}{\fs14}What's your telephone number?
+Dialogue: 0,0:55:07.03,0:55:11.29,*Default,,0,0,0,,*跪到地上*\N{\fn微软雅黑}{\fs14}*Hit the ground*
+Dialogue: 0,0:55:11.82,0:55:13.09,*Default,,0,0,0,,*院子里*\N{\fn微软雅黑}{\fs14}*The yard*
+Dialogue: 0,0:55:13.09,0:55:16.89,*Default,,0,0,0,,*我发现了什么*\N{\fn微软雅黑}{\fs14}*I found something*
+Dialogue: 0,0:55:17.69,0:55:25.03,*Default,,0,0,0,,*我能尝到你嘴巴的味道*\N{\fn微软雅黑}{\fs14}*I could taste your mouth*
+Dialogue: 0,0:55:26.38,0:55:30.07,*Default,,0,0,0,,*关上门*\N{\fn微软雅黑}{\fs14}*Shut the door*
+Dialogue: 0,0:55:31.03,0:55:36.03,*Default,,0,0,0,,*沐浴着阳光*\N{\fn微软雅黑}{\fs14}*Now in the sun tanning*
+Dialogue: 0,0:55:45.12,0:55:47.87,*Default,,0,0,0,,*你那么*\N{\fn微软雅黑}{\fs14}*You were so*
+Dialogue: 0,0:55:47.88,0:55:52.04,*Default,,0,0,0,,*就这么*\N{\fn微软雅黑}{\fs14}*Just*
+Dialogue: 0,0:55:54.76,0:56:02.32,*Default,,0,0,0,,*看向天空*\N{\fn微软雅黑}{\fs14}*Looking across the sky*
+Dialogue: 0,0:56:03.90,0:56:07.54,*Default,,0,0,0,,*记不清*\N{\fn微软雅黑}{\fs14}*Can't remember*
+Dialogue: 0,0:56:07.83,0:56:13.11,*Default,,0,0,0,,*我记不起来*\N{\fn微软雅黑}{\fs14}*I can't recall no*
+Dialogue: 0,0:56:13.11,0:56:17.06,*Default,,0,0,0,,*我什么都*\N{\fn微软雅黑}{\fs14}*I can't remember*
+Dialogue: 0,0:56:17.06,0:56:22.42,*Default,,0,0,0,,*记不起来*\N{\fn微软雅黑}{\fs14}*Anything at all*
+Dialogue: 0,0:56:26.38,0:56:31.16,*Default,,0,0,0,,*让我们奔跑*\N{\fn微软雅黑}{\fs14}*Let's run under*
+Dialogue: 0,0:56:31.16,0:56:36.60,*Default,,0,0,0,,*在夜里诅咒我自己*\N{\fn微软雅黑}{\fs14}*Cursing myself at night*
+Dialogue: 0,0:56:40.44,0:56:45.38,*Default,,0,0,0,,*七点慢点*\N{\fn微软雅黑}{\fs14}*Slow it was seven*
+Dialogue: 0,0:56:45.38,0:56:48.00,*Default,,0,0,0,,*我希望整晚*\N{\fn微软雅黑}{\fs14}*I wish it was*
+Dialogue: 0,0:56:48.00,0:56:51.31,*Default,,0,0,0,,*都是七点*\N{\fn微软雅黑}{\fs14}*Seven all night*
+Dialogue: 0,0:56:53.97,0:56:57.56,*Default,,0,0,0,,*告诉我何时*\N{\fn微软雅黑}{\fs14}*Tell me when*
+Dialogue: 0,0:56:57.56,0:57:03.05,*Default,,0,0,0,,*告诉我何时会结束*\N{\fn微软雅黑}{\fs14}*Tell me when is this over*
+Dialogue: 0,0:57:03.05,0:57:06.86,*Default,,0,0,0,,*吞噬你*\N{\fn微软雅黑}{\fs14}*Chewed you out*
+Dialogue: 0,0:57:06.86,0:57:09.32,*Default,,0,0,0,,*吞噬我*\N{\fn微软雅黑}{\fs14}*Chew me out*
+Dialogue: 0,0:57:09.32,0:57:12.39,*Default,,0,0,0,,*我犯傻*\N{\fn微软雅黑}{\fs14}*When I'm stupid*
+Dialogue: 0,0:57:12.39,0:57:16.18,*Default,,0,0,0,,*我不想让*\N{\fn微软雅黑}{\fs14}*I don't wanna*
+Dialogue: 0,0:57:16.18,0:57:21.75,*Default,,0,0,0,,*所有人无奈*\N{\fn微软雅黑}{\fs14}*Everyone else pales*
+Dialogue: 0,0:57:21.75,0:57:25.51,*Default,,0,0,0,,*派来猫头鹰*\N{\fn微软雅黑}{\fs14}*Send in the owl*
+Dialogue: 0,0:57:25.51,0:57:30.42,*Default,,0,0,0,,*告诉我我不是孩子*\N{\fn微软雅黑}{\fs14}*Tell me I'm not a child*
+Dialogue: 0,0:57:32.93,0:57:36.48,*Default,,0,0,0,,*你的召唤*\N{\fn微软雅黑}{\fs14}*You summon*
+Dialogue: 0,0:57:37.47,0:57:39.82,*Default,,0,0,0,,*忘记*\N{\fn微软雅黑}{\fs14}*Forget about*
+Dialogue: 0,0:57:39.82,0:57:45.49,*Default,,0,0,0,,*所有人*\N{\fn微软雅黑}{\fs14}*Everyone else*
+Dialogue: 0,0:57:46.00,0:57:53.07,*Default,,0,0,0,,*坠落*\N{\fn微软雅黑}{\fs14}*Fall away somehow*
