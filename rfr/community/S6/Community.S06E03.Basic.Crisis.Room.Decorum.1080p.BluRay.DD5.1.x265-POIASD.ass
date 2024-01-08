@@ -1,0 +1,575 @@
+﻿[Script Info]
+; // 此字幕由Srt2Ass生成
+; // 欢迎访问人人影视 http://www.YYeTs.com
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,22,&H00FFFFFF,&HF0000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0.00,1,2,0,2,30,30,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.28,0:00:10.42,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b0\bord1\shad1\3c&H2F2F2F&}待完成清单\N成就  今天  明天  本周
+Dialogue: 0,0:00:10.54,0:00:13.86,*Default,NTP,0000,0000,0000,,{\an7}{\fn微软雅黑\fs18\b0\bord1\shad1\3c&H2F2F2F&}安妮\N待完成清单\N订购新文件夹标签\N给盒子打印新标签\N整理新文件夹标签\N订购新完成文档盒\N整理待完成清单
+Dialogue: 0,0:00:13.86,0:00:16.09,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b0\bord1\shad1\3c&H2F2F2F&}电子邮件提醒\N主题  提醒\N关闭  阅读
+Dialogue: 0,0:00:22.10,0:00:23.10,*Default,NTP,0000,0000,0000,,{\an9}{\fn微软雅黑\fs18\b0\bord1\shad1\3c&H2F2F2F&}联系人\N弗兰·达特
+Dialogue: 0,0:00:26.53,0:00:27.83,*Default,NTP,0000,0000,0000,,弗兰  你醒着吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Frankie, are you awake?
+Dialogue: 0,0:00:27.83,0:00:30.23,*Default,NTP,0000,0000,0000,,我睡了  但我一次只睡半边大脑  说吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm in bed, but I only rest half my brain at a time. Go!
+Dialogue: 0,0:00:30.23,0:00:31.29,*Default,NTP,0000,0000,0000,,格林德尔危在旦夕\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Greendale in jeopardy.
+Dialogue: 0,0:00:31.30,0:00:34.35,*Default,NTP,0000,0000,0000,,需要召开紧急会议  速来  没空解释\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Need to call emergency meeting, asap, no time to explain.
+Dialogue: 0,0:00:34.35,0:00:36.19,*Default,NTP,0000,0000,0000,,30分钟内到校\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I can be at the school in 30 minutes, 
+Dialogue: 0,0:00:36.19,0:00:38.20,*Default,NTP,0000,0000,0000,,我告诉院长通知其他人\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and I can have the dean notify the others.
+Dialogue: 0,0:00:38.50,0:00:40.53,*Default,NTP,0000,0000,0000,,你通知其他人不行吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Could you notify the others?
+Dialogue: 0,0:00:40.53,0:00:42.55,*Default,NTP,0000,0000,0000,,你觉得院长搞不定吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You don't think the Dean can handle it?
+Dialogue: 0,0:00:43.13,0:00:44.72,*Default,NTP,0000,0000,0000,,你觉得怎么好就怎么办吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Do what you think is best.
+Dialogue: 0,0:00:48.13,0:00:51.36,*Default,NTP,0000,0000,0000,,安妮·爱迪生召开紧急会议  半小时内到校\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Annie Edison requesting emergency meeting at school in 30.
+Dialogue: 0,0:00:51.36,0:00:52.53,*Default,NTP,0000,0000,0000,,格林德尔身陷险境\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Greendale in trouble.
+Dialogue: 0,0:00:52.53,0:00:53.73,*Default,NTP,0000,0000,0000,,我马上通知大家\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'll notify the others.
+Dialogue: 0,0:00:53.73,0:00:55.11,*Default,NTP,0000,0000,0000,,你不想叫我可以帮你\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I can do that if you like.
+Dialogue: 0,0:00:55.11,0:00:58.81,*Default,NTP,0000,0000,0000,,通知大家这点事我还是做得到的  我谢你啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I think I can handle notifying others, thank you very much.
+Dialogue: 0,0:00:59.16,0:00:59.91,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b0\bord1\shad1\3c&H2F2F2F&}杰夫瑞·翁格
+Dialogue: 0,0:00:59.91,0:01:01.61,*Default,NTP,0000,0000,0000,,安妮  杰夫瑞  紧急会议\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Annie, Jeffrey, emergency meeting 
+Dialogue: 0,0:01:01.61,0:01:03.62,*Default,NTP,0000,0000,0000,,30分钟内到校\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}at the school in 30 minutes.
+Dialogue: 0,0:01:03.62,0:01:04.79,*Default,NTP,0000,0000,0000,,我早就知道了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I already know.
+Dialogue: 0,0:01:04.79,0:01:06.40,*Default,NTP,0000,0000,0000,,会议是我召开的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm the one calling the meeting.
+Dialogue: 0,0:01:06.40,0:01:08.16,*Default,NTP,0000,0000,0000,,啥事  哟\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}What up, yo?
+Dialogue: 0,0:01:08.17,0:01:09.35,*Default,NTP,0000,0000,0000,,那个号码是谁\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Who is this other number?
+Dialogue: 0,0:01:09.35,0:01:10.43,*Default,NTP,0000,0000,0000,,这是群发短信\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It's a group text.
+Dialogue: 0,0:01:10.43,0:01:11.69,*Default,NTP,0000,0000,0000,,我在给你和杰夫瑞发信息\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm texting you and Jeffrey.
+Dialogue: 0,0:01:11.69,0:01:12.46,*Default,NTP,0000,0000,0000,,是我\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It's me.
+Dialogue: 0,0:01:12.46,0:01:15.43,*Default,NTP,0000,0000,0000,,我是杰夫瑞  院长最佳好友\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am Jeffrey, best friend of dean.
+Dialogue: 0,0:01:15.44,0:01:16.75,*Default,NTP,0000,0000,0000,,好呀  杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Hi, Jeffrey.
+Dialogue: 0,0:01:17.13,0:01:19.42,*Default,NTP,0000,0000,0000,,院长  我手机里杰夫瑞不是那个号码\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Dean, that number is not in my phone as Jeff's, 
+Dialogue: 0,0:01:19.42,0:01:22.11,*Default,NTP,0000,0000,0000,,而且你那个号码  都不像美国号\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and it doesn't even look like an American phone number.
+Dialogue: 0,0:01:25.28,0:01:26.42,*Default,NTP,0000,0000,0000,,天啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Oh, my God.
+Dialogue: 0,0:01:26.61,0:01:28.19,*Default,NTP,0000,0000,0000,,我真是笨到家了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}How stupid can I get?
+Dialogue: 0,0:01:29.28,0:01:32.03,*Default,NTP,0000,0000,0000,,你也没告诉我  你给安妮的是假号啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You never told me you gave Annie a fake phone number.
+Dialogue: 0,0:01:32.03,0:01:33.76,*Default,NTP,0000,0000,0000,,是的院长  这是我的号\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Yes Dean, this is me, 
+Dialogue: 0,0:01:33.76,0:01:36.21,*Default,NTP,0000,0000,0000,,你最佳好友杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Jeffrey, you are best friend.
+Dialogue: 0,0:01:36.22,0:01:37.84,*Default,NTP,0000,0000,0000,,等等  我帮你打圆场\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Hold on, I'll cover.
+Dialogue: 0,0:01:39.07,0:01:42.82,*Default,NTP,0000,0000,0000,,你说的对  我号码记错了呵呵  学校见\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You're right, I had the wrong number, he he! see you at the school.
+Dialogue: 0,0:01:43.11,0:01:44.75,*Default,NTP,0000,0000,0000,,太对不起了  杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am so sorry, Jeffrey.
+Dialogue: 0,0:01:44.75,0:01:46.15,*Default,NTP,0000,0000,0000,,希望没给你找麻烦\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I hope I didn't get you in trouble.
+Dialogue: 0,0:01:46.15,0:01:47.46,*Default,NTP,0000,0000,0000,,别担心  院长\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}No worries, dean.
+Dialogue: 0,0:01:47.46,0:01:48.84,*Default,NTP,0000,0000,0000,,爱你哦\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I love you.
+Dialogue: 0,0:01:50.37,0:01:52.52,*Default,NTP,0000,0000,0000,,发短信的时候  你总是甜蜜蜜\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You're always so sweet, when we're texting,
+Dialogue: 0,0:01:52.52,0:01:53.95,*Default,NTP,0000,0000,0000,,一见真人就冷冰冰\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}but then in real life.
+Dialogue: 0,0:01:54.38,0:01:56.50,*Default,NTP,0000,0000,0000,,哥们  我都是爱的隐秘\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Bro, I just secret that way with love.
+Dialogue: 0,0:01:56.50,0:01:57.71,*Default,NTP,0000,0000,0000,,你懂我风格的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You know, my style.
+Dialogue: 0,0:01:57.72,0:02:00.65,*Default,NTP,0000,0000,0000,,我们在短信中爱下去  让这一切永远保密\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We keep loving in text, but then secret forever.
+Dialogue: 0,0:02:00.65,0:02:01.69,*Default,NTP,0000,0000,0000,,喵\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Meow.
+Dialogue: 0,0:02:03.14,0:02:04.14,*Default,NTP,0000,0000,0000,,喵\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Meow.
+Dialogue: 0,0:02:07.53,0:02:11.83,*Default,NTP,0000,0000,0000,,{\an1}{\t(001,3000,0.3\fscx90\fscy90)}{\fad(300,300)}{\1a&H50&\3c&571702&}{\shad0}{\bord2}{\fn方正美黑_GBK}{\fs18}翻  译    {\fn方正粗圆_GBK\c&HFFCCFF&\3c&571702&\fs22}爵士年代蓬蓬裙
+Dialogue: 0,0:02:11.83,0:02:15.13,*Default,NTP,0000,0000,0000,,{\an3}{\t(001,3000,0.3\fscx90\fscy90)}{\fad(300,300)}{\1a&H50&\3c&571702&}{\shad0}{\bord2}{\fn方正美黑_GBK}{\fs18}翻  译    {\fn方正粗圆_GBK\c&HFFCCFF&\3c&571702&\fs22}搜查一课·管理员·蝶野真菜
+Dialogue: 0,0:02:15.13,0:02:17.63,*Default,NTP,0000,0000,0000,,{\an1}{\t(001,3000,0.3\fscx90\fscy90)}{\fad(300,300)}{\1a&H50&\3c&571702&}{\shad0}{\bord2}{\fn方正美黑_GBK}{\fs18}翻  译    {\fn方正粗圆_GBK\c&HFFCCFF&\3c&571702&\fs22}松江组·Deep Town·橙酱
+Dialogue: 0,0:02:17.63,0:02:21.13,*Default,NTP,0000,0000,0000,,{\an3}{\t(001,3000,0.3\fscx90\fscy90)}{\fad(300,300)}{\1a&H50&\3c&571702&}{\shad0}{\bord2}{\fn方正美黑_GBK}{\fs18}时  间  轴    {\fn方正粗圆_GBK\c&HFFCCFF&\3c&571702&\fs22}姜姜
+Dialogue: 0,0:02:21.13,0:02:24.53,*Default,NTP,0000,0000,0000,,{\an1}{\t(001,3000,0.3\fscx90\fscy90)}{\fad(300,300)}{\1a&H50&\3c&571702&}{\shad0}{\bord2}{\fn方正美黑_GBK}{\fs18}校  对/总  监    {\fn方正粗圆_GBK\c&HFFCCFF&\3c&571702&\fs22}泪の蛋包饭·Deep Town·橙酱
+Dialogue: 0,0:02:24.53,0:02:27.83,*Default,NTP,0000,0000,0000,,{\an3}{\t(001,3000,0.3\fscx90\fscy90)}{\fad(300,300)}{\1a&H50&\3c&571702&}{\shad0}{\bord2}{\fn方正美黑_GBK}{\fs18}后  期    {\fn方正粗圆_GBK\c&HFFCCFF&\3c&571702&\fs22}无间双鱼·这根骨头才是压制
+Dialogue: 0,0:02:27.83,0:02:29.58,*Default,NTP,0000,0000,0000,,{\an2\fs20\1a&H50&\3c&571702&\shad0\bord2\t(001,3000,0.3\fscx90\fscy90)}最新最快中文字幕下载\Nwww.zimuzu.tv   新浪微博@ZiMuZu
+Dialogue: 0,0:02:29.58,0:02:31.54,*Default,NTP,0000,0000,0000,,{\an8\1a&H50&\3c&571702&}{\fad(300,300)}{\shad\bord2\b1}{\fn微软雅黑}{\fs22}废柴联盟\N{\fs20}第六季  第三集
+Dialogue: 0,0:02:44.21,0:02:46.81,*Default,NTP,0000,0000,0000,,安妮  如果不是你要死了  我就杀了你\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Annie, if you're not dying, I'm gonna murder you.
+Dialogue: 0,0:02:46.82,0:02:50.29,*Default,NTP,0000,0000,0000,,害我把晚霜都擦掉了  两百块一丢丢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I had to remove my night cream, it's $200 an ounce.
+Dialogue: 0,0:02:50.29,0:02:53.03,*Default,NTP,0000,0000,0000,,他喵的凌晨三点啊  埃迪生\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It's 3am in the fricking morning Edison,
+Dialogue: 0,0:02:53.04,0:02:54.75,*Default,NTP,0000,0000,0000,,谁给你的权利把我们召唤到这儿的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}what gives you the right to haul us in here.
+Dialogue: 0,0:02:54.75,0:02:57.06,*Default,NTP,0000,0000,0000,,昌  你是怎么知道这事儿的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Chang, how did you even find out about this?
+Dialogue: 0,0:02:58.38,0:02:59.62,*Default,NTP,0000,0000,0000,,我有权来这里\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I have a right to be here.
+Dialogue: 0,0:03:02.26,0:03:02.85,*Default,NTP,0000,0000,0000,,你怎么这么清醒\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Why are you awake?
+Dialogue: 0,0:03:02.85,0:03:05.64,*Default,NTP,0000,0000,0000,,对此我有个猜测  她是布雷塔的秘密双胞胎\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I have a theory about this, Britta may be secretly twins.
+Dialogue: 0,0:03:05.78,0:03:06.76,*Default,NTP,0000,0000,0000,,不是  我在工作\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}No, I was working.
+Dialogue: 0,0:03:06.76,0:03:09.08,*Default,NTP,0000,0000,0000,,在酒吧吗  那你现在是不是喝高了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}At the bar? Does that mean you're drunk?
+Dialogue: 0,0:03:09.15,0:03:11.39,*Default,NTP,0000,0000,0000,,喝高的人能做这个吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Could a drunk person do this?
+Dialogue: 0,0:03:17.94,0:03:19.17,*Default,NTP,0000,0000,0000,,大家好\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Hi, everybody.
+Dialogue: 0,0:03:20.06,0:03:21.09,*Default,NTP,0000,0000,0000,,杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Jeffrey.
+Dialogue: 0,0:03:21.32,0:03:22.86,*Default,NTP,0000,0000,0000,,好的  41分钟之前\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Okay, 41 minutes ago,
+Dialogue: 0,0:03:22.87,0:03:26.30,*Default,NTP,0000,0000,0000,,我收到了在KZBC实习的朋友的电邮\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I received this email from a friend that interns at KZBC.
+Dialogue: 0,0:03:26.31,0:03:27.34,*Default,NTP,0000,0000,0000,,那个电视台\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}The TV station?
+Dialogue: 0,0:03:27.34,0:03:30.98,*Default,NTP,0000,0000,0000,,不是  是四个毫无瓜葛随机排列的字母\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}No, the unrelated, totally random combination of those four letters.
+Dialogue: 0,0:03:31.47,0:03:32.50,*Default,NTP,0000,0000,0000,,喵\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Meow.
+Dialogue: 0,0:03:32.51,0:03:33.83,*Default,NTP,0000,0000,0000,,主题  提醒\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Subject heads up.
+Dialogue: 0,0:03:33.83,0:03:35.65,*Default,NTP,0000,0000,0000,,安妮  还在格林德尔上学吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Annie, still going to Greendale?
+Dialogue: 0,0:03:35.65,0:03:36.65,*Default,NTP,0000,0000,0000,,有件事得跟你说\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Thought you should know,
+Dialogue: 0,0:03:36.65,0:03:40.77,*Default,NTP,0000,0000,0000,,城市学院早七点要播一条你们学校的负面广告\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}City College is running a negative ad about your school at 7am.
+Dialogue: 0,0:03:40.82,0:03:42.44,*Default,NTP,0000,0000,0000,,听说挺劲爆的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Heard it's pretty bad.
+Dialogue: 0,0:03:42.84,0:03:43.94,*Default,NTP,0000,0000,0000,,我看看\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Let me see that.
+Dialogue: 0,0:03:43.95,0:03:46.44,*Default,NTP,0000,0000,0000,,城市学院要播攻击性广告\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}City College is running an attack ad?
+Dialogue: 0,0:03:46.44,0:03:47.58,*Default,NTP,0000,0000,0000,,这是第一条\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}That's a first.
+Dialogue: 0,0:03:47.58,0:03:48.54,*Default,NTP,0000,0000,0000,,他们这是狗急跳墙了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}They're getting desperate.
+Dialogue: 0,0:03:48.54,0:03:50.64,*Default,NTP,0000,0000,0000,,我们的在校生人数持续上涨\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Our registration numbers are trending upward.
+Dialogue: 0,0:03:50.65,0:03:52.39,*Default,NTP,0000,0000,0000,,因为人越来越多\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Because the population keeps growing,
+Dialogue: 0,0:03:52.39,0:03:54.30,*Default,NTP,0000,0000,0000,,却没人毕业\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and no one here ever graduates.
+Dialogue: 0,0:03:54.30,0:03:55.51,*Default,NTP,0000,0000,0000,,事实上人数增长\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Actually, our numbers are up
+Dialogue: 0,0:03:55.51,0:03:57.40,*Default,NTP,0000,0000,0000,,是因为弗兰把学校改进的好\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}because of improvements Frankie's made.
+Dialogue: 0,0:03:57.41,0:03:58.63,*Default,NTP,0000,0000,0000,,那些改进\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Those improvements,
+Dialogue: 0,0:03:58.63,0:04:01.10,*Default,NTP,0000,0000,0000,,没有你的努力付出也不会实现  安妮\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}were only possible through your hard work, Annie.
+Dialogue: 0,0:04:01.10,0:04:02.45,*Default,NTP,0000,0000,0000,,你俩单开个会议室好不\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Oh, get a boardroom.
+Dialogue: 0,0:04:02.45,0:04:03.52,*Default,NTP,0000,0000,0000,,有意思\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Interesting.
+Dialogue: 0,0:04:03.52,0:04:05.71,*Default,NTP,0000,0000,0000,,你准备什么时候把事情真相告诉我们\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}When were you gonna hear the whole truth about this, 
+Dialogue: 0,0:04:05.71,0:04:07.61,*Default,NTP,0000,0000,0000,,而不是你断章取义的部分\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and not just the parts that suit you?
+Dialogue: 0,0:04:07.61,0:04:11.59,*Default,NTP,0000,0000,0000,,-什么  -另  真高兴布兰达好点了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- What? - PS I was glad to hear Brenda's doing better.
+Dialogue: 0,0:04:17.82,0:04:19.68,*Default,NTP,0000,0000,0000,,就因为城市学院害怕\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Just because City College is scared,
+Dialogue: 0,0:04:19.68,0:04:21.41,*Default,NTP,0000,0000,0000,,不代表他们不危险\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}doesn't mean they're not dangerous.
+Dialogue: 0,0:04:21.41,0:04:24.54,*Default,NTP,0000,0000,0000,,有没有什么特别的事  他们真能抹黑我们的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Is there anything in particular they could smear us with?
+Dialogue: 0,0:04:24.55,0:04:26.03,*Default,NTP,0000,0000,0000,,没什么特别的事\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Nothing in particular,
+Dialogue: 0,0:04:26.03,0:04:29.58,*Default,NTP,0000,0000,0000,,除了黑云压城城欲摧的成千上万件事\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}just overlapping clouds of many thousands and thousands of things.
+Dialogue: 0,0:04:29.58,0:04:30.93,*Default,NTP,0000,0000,0000,,别忘了还有布兰达那茬\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Let's not forget the Brenda factor.
+Dialogue: 0,0:04:30.93,0:04:32.46,*Default,NTP,0000,0000,0000,,压根没有布兰达这茬\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}There isn't a Brenda factor.
+Dialogue: 0,0:04:32.46,0:04:34.92,*Default,NTP,0000,0000,0000,,他说她好点了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}He says she's doing better.
+Dialogue: 0,0:04:34.92,0:04:35.92,*Default,NTP,0000,0000,0000,,什么好点儿了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Better than what?
+Dialogue: 0,0:04:35.92,0:04:37.21,*Default,NTP,0000,0000,0000,,她的甲状腺病情\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Her thyroid condition!
+Dialogue: 0,0:04:37.21,0:04:38.31,*Default,NTP,0000,0000,0000,,你能不能抓重点\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Can you focus?
+Dialogue: 0,0:04:38.31,0:04:39.46,*Default,NTP,0000,0000,0000,,布兰达能不能\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Can Brenda?
+Dialogue: 0,0:04:39.74,0:04:41.09,*Default,NTP,0000,0000,0000,,现在看也许真是这样\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Probably more so, now.
+Dialogue: 0,0:04:41.10,0:04:43.10,*Default,NTP,0000,0000,0000,,好了  我们得在播出前看到这广告\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Okay, we need to see this ad before it airs.
+Dialogue: 0,0:04:43.10,0:04:44.19,*Default,NTP,0000,0000,0000,,我在尽力搞到视频\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm working on getting us a copy.
+Dialogue: 0,0:04:44.19,0:04:46.15,*Default,NTP,0000,0000,0000,,我在城市学院认识一个AV部门的朋友\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I have friends in the AV department at City College.
+Dialogue: 0,0:04:46.15,0:04:47.07,*Default,NTP,0000,0000,0000,,乌拉拉\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Ooh la la.
+Dialogue: 0,0:04:47.07,0:04:49.51,*Default,NTP,0000,0000,0000,,AV兄弟情胜过你们矫情的党派主义\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}The brotherhood of AV exists beyond your petty factionalism.
+Dialogue: 0,0:04:49.51,0:04:51.07,*Default,NTP,0000,0000,0000,,我们只为唯一的女王  视频\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We serve only video, the one true queen,
+Dialogue: 0,0:04:51.07,0:04:52.80,*Default,NTP,0000,0000,0000,,以及她忠实的配偶  音频服务\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and her faithful consort, audio.
+Dialogue: 0,0:04:52.81,0:04:54.09,*Default,NTP,0000,0000,0000,,你能不能再宅一点\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Oh, could you guys be bigger nerds?
+Dialogue: 0,0:04:54.10,0:04:56.02,*Default,NTP,0000,0000,0000,,不能  我们大多数人已经达到宅之极限了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}No, most of us have achieved our maximum potential.
+Dialogue: 0,0:04:56.03,0:04:59.04,*Default,NTP,0000,0000,0000,,安妮说的对  我们这里确实有情况\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Well, Annie's right. We do have a situation here,
+Dialogue: 0,0:04:59.04,0:05:02.34,*Default,NTP,0000,0000,0000,,那我们就把这里变成战情室\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}so we will make this our situation room.
+Dialogue: 0,0:05:02.34,0:05:03.06,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Yes.
+Dialogue: 0,0:05:03.06,0:05:05.82,*Default,NTP,0000,0000,0000,,我们需要白板  软木板  笔记本电脑\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We need whiteboards, corkboards, laptops.
+Dialogue: 0,0:05:05.82,0:05:07.73,*Default,NTP,0000,0000,0000,,墙上一堆不同时间的钟  还有一部红电话\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}A bunch of clocks with different times on them, a red phone,
+Dialogue: 0,0:05:07.73,0:05:09.53,*Default,NTP,0000,0000,0000,,桌上一张大地图  上有纳粹小坦克\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}a big tabletop map with little Nazi tanks, 
+Dialogue: 0,0:05:09.53,0:05:10.37,*Default,NTP,0000,0000,0000,,或者哥斯拉\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and, or a Godzilla.
+Dialogue: 0,0:05:10.37,0:05:12.01,*Default,NTP,0000,0000,0000,,广告早上七点播出\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}The ad airs at 7am.
+Dialogue: 0,0:05:12.01,0:05:15.74,*Default,NTP,0000,0000,0000,,意味着我们还有4小时零13分钟\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}That means we have four hours and 13 minutes,
+Dialogue: 0,0:05:15.74,0:05:18.32,*Default,NTP,0000,0000,0000,,来想出办法应对明天他们的攻击\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}to figure out what they're throwing at us and how to respond.
+Dialogue: 0,0:05:18.34,0:05:19.80,*Default,NTP,0000,0000,0000,,知道吗  真不可思议\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You know, it's the darndest thing,
+Dialogue: 0,0:05:19.80,0:05:22.35,*Default,NTP,0000,0000,0000,,我感觉布雷塔刚刚也拉到我裤子里了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I think Britta somehow crapped in my pants too.
+Dialogue: 0,0:05:22.35,0:05:23.67,*Default,NTP,0000,0000,0000,,最好还是回家吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Uh-huh, better head home.
+Dialogue: 0,0:05:23.67,0:05:25.38,*Default,NTP,0000,0000,0000,,杰夫  战情室不是你说走就走的地方\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Jeff, you can't just leave a situation room.
+Dialogue: 0,0:05:25.39,0:05:28.64,*Default,NTP,0000,0000,0000,,这之所以是战情室  是因为她这么叫的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It's only a situation room, because she called it that.
+Dialogue: 0,0:05:28.64,0:05:30.35,*Default,NTP,0000,0000,0000,,我还能宣布这里是\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I mean I could declare it a.
+Dialogue: 0,0:05:30.63,0:05:31.72,*Default,NTP,0000,0000,0000,,饼干室\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Cookie room!
+Dialogue: 0,0:05:31.87,0:05:33.26,*Default,NTP,0000,0000,0000,,可是没有饼干\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}There are no cookies.
+Dialogue: 0,0:05:33.26,0:05:35.22,*Default,NTP,0000,0000,0000,,这只有战情\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}There is a situation.
+Dialogue: 0,0:05:35.22,0:05:37.70,*Default,NTP,0000,0000,0000,,同志们  格林德尔的精神哪去了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You guys, where's the Greendale spirit!
+Dialogue: 0,0:05:37.70,0:05:39.29,*Default,NTP,0000,0000,0000,,我们的骄傲呢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Where's the pride?
+Dialogue: 0,0:05:39.34,0:05:40.48,*Default,NTP,0000,0000,0000,,我没事\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm fine.
+Dialogue: 0,0:05:40.48,0:05:41.45,*Default,NTP,0000,0000,0000,,骄傲来了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Found it.
+Dialogue: 0,0:05:41.84,0:05:45.05,*Default,NTP,0000,0000,0000,,她光着屁股在校园里四处逛\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}She was wandering around campus, without pants.
+Dialogue: 0,0:05:45.70,0:05:46.76,*Default,NTP,0000,0000,0000,,这里是什么情况\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}What's going on in here?
+Dialogue: 0,0:05:46.77,0:05:47.79,*Default,NTP,0000,0000,0000,,战情室\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Situation room.
+Dialogue: 0,0:05:47.79,0:05:48.73,*Default,NTP,0000,0000,0000,,什么战情\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}What's the situation?
+Dialogue: 0,0:05:48.73,0:05:50.07,*Default,NTP,0000,0000,0000,,布兰达甲状腺不好了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Brenda's got a bad thyroid.
+Dialogue: 0,0:05:50.07,0:05:50.88,*Default,NTP,0000,0000,0000,,很遗憾听到这个消息\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm sorry to hear that.
+Dialogue: 0,0:05:50.88,0:05:51.94,*Default,NTP,0000,0000,0000,,裤子你留着吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You can keep the pants.
+Dialogue: 0,0:05:51.94,0:05:53.22,*Default,NTP,0000,0000,0000,,我回去睡了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm going back to bed.
+Dialogue: 0,0:05:53.22,0:05:54.03,*Default,NTP,0000,0000,0000,,我跟他一起走\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm going with him.
+Dialogue: 0,0:05:54.03,0:05:54.88,*Default,NTP,0000,0000,0000,,我去看着\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm gonna watch.
+Dialogue: 0,0:05:54.88,0:05:55.79,*Default,NTP,0000,0000,0000,,拿到了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Got it.
+Dialogue: 0,0:05:55.79,0:05:56.80,*Default,NTP,0000,0000,0000,,下载中\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Downloading it now.
+Dialogue: 0,0:05:56.80,0:05:58.48,*Default,NTP,0000,0000,0000,,你努力学习以获得学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You work hard to earn your degree, 
+Dialogue: 0,0:05:58.49,0:06:01.29,*Default,NTP,0000,0000,0000,,你的学校应该努力让这个学位变得有价值\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and your school should work hard to make that degree valuable.
+Dialogue: 0,0:06:01.29,0:06:04.54,*Default,NTP,0000,0000,0000,,那为何格林德尔社区大学将学位颁发给狗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}So, why is Greendale Community College giving degrees to dogs?
+Dialogue: 0,0:06:04.54,0:06:07.39,*Default,NTP,0000,0000,0000,,2001年  一只名为来福的斯塔福德犬\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}In 2001, a Staffordshire terrier mix named Ruffles 
+Dialogue: 0,0:06:07.39,0:06:09.60,*Default,NTP,0000,0000,0000,,在格林德尔校园安营扎寨\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}took up residence on Greendale's campus.
+Dialogue: 0,0:06:09.61,0:06:12.60,*Default,NTP,0000,0000,0000,,2008年  来福已经获得了一个学士学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}By 2008, Ruffles had earned a Bachelor's Degree.
+Dialogue: 0,0:06:12.60,0:06:15.39,*Default,NTP,0000,0000,0000,,不是两年学位  而是四年学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Not a two year degree, a four year degree.
+Dialogue: 0,0:06:15.19,0:06:15.91,*Default,NTP,0000,0000,0000,,{\an3}{\fn微软雅黑\fs18\b0\bord1\shad1\3c&H2F2F2F&}28狗年学位
+Dialogue: 0,0:06:15.73,0:06:17.13,*Default,NTP,0000,0000,0000,,你会在哪里取得你的学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Where will you get your degree?
+Dialogue: 0,0:06:17.13,0:06:18.53,*Default,NTP,0000,0000,0000,,如果答案是格林德尔\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}If the answer is Greendale, 
+Dialogue: 0,0:06:18.53,0:06:20.49,*Default,NTP,0000,0000,0000,,准备好啃骨头吧{\fs9}[被操翻]\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}prepare to get boned.
+Dialogue: 0,0:06:20.49,0:06:23.54,*Default,NTP,0000,0000,0000,,城市学院出资  许可证264392\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Paid for by City College, license 264392.
+Dialogue: 0,0:06:27.23,0:06:30.61,*Default,NTP,0000,0000,0000,,我们有没有给狗学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Did we give a degree to a dog?
+Dialogue: 0,0:06:34.08,0:06:35.73,*Default,NTP,0000,0000,0000,,天啊  天啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Oh my God! Oh my God!
+Dialogue: 0,0:06:35.73,0:06:37.49,*Default,NTP,0000,0000,0000,,没事  没事的  \N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Okay, it's okay, it's all right.
+Dialogue: 0,0:06:41.88,0:06:45.85,*Default,NTP,0000,0000,0000,,所以这就是格林德尔  不是城市学院\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}So, this is Greendale, not City College?
+Dialogue: 0,0:06:47.76,0:06:49.59,*Default,NTP,0000,0000,0000,,我去找条裤子\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm gonna get more pants.
+Dialogue: 0,0:06:58.51,0:07:00.32,*Default,NTP,0000,0000,0000,,他们现在常常叫我来干活\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}They've been calling me in to do more stuff lately.
+Dialogue: 0,0:07:00.32,0:07:01.24,*Default,NTP,0000,0000,0000,,相当高兴\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It's pretty exciting.
+Dialogue: 0,0:07:01.24,0:07:03.25,*Default,NTP,0000,0000,0000,,相信我  最多我们只能得到三个字...\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Well trust me, we'll be lucky if we get in three words before.
+Dialogue: 0,0:07:03.25,0:07:05.72,*Default,NTP,0000,0000,0000,,第一步是  找到事实\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}The first step is to pull our facts.
+Dialogue: 0,0:07:05.73,0:07:08.55,*Default,NTP,0000,0000,0000,,最重要的一环是  派尔顿院长\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}The most important one being, Dean Pelton.
+Dialogue: 0,0:07:08.55,0:07:11.91,*Default,NTP,0000,0000,0000,,格林德尔社区大学到底有没有给过狗学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Did Greendale Community College give a degree to a dog?
+Dialogue: 0,0:07:13.68,0:07:17.55,*Default,NTP,0000,0000,0000,,我好像记得  没有\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I seem to recall, no.
+Dialogue: 0,0:07:17.55,0:07:19.93,*Default,NTP,0000,0000,0000,,不可能  绝对不可能\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}No way. There's absolutely no way.
+Dialogue: 0,0:07:19.96,0:07:20.82,*Default,NTP,0000,0000,0000,,不是那只狗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Not that dog.
+Dialogue: 0,0:07:20.82,0:07:23.37,*Default,NTP,0000,0000,0000,,-那只狗  -你终于想起狗的事儿了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- That dog? - You remember the dog.
+Dialogue: 0,0:07:23.48,0:07:26.34,*Default,NTP,0000,0000,0000,,它有没有参加过什么课程\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Was it enrolled in classes?
+Dialogue: 0,0:07:27.52,0:07:29.26,*Default,NTP,0000,0000,0000,,这问题有什么难回答的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}How are these hard questions?
+Dialogue: 0,0:07:29.26,0:07:32.07,*Default,NTP,0000,0000,0000,,你为什么问这些问题\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Why, are these the questions you're asking?
+Dialogue: 0,0:07:32.08,0:07:34.73,*Default,NTP,0000,0000,0000,,你不想知道有没有给过狗学位吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You don't wanna know, if a dog got a degree here?
+Dialogue: 0,0:07:34.73,0:07:35.93,*Default,NTP,0000,0000,0000,,这不重要\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It's not important.
+Dialogue: 0,0:07:36.20,0:07:39.53,*Default,NTP,0000,0000,0000,,我想知道的是  有没有证据能证明\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}What I wanna know is, did a dog get a degree here,
+Dialogue: 0,0:07:39.53,0:07:41.20,*Default,NTP,0000,0000,0000,,这里给过狗学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}in any way that can be proven?
+Dialogue: 0,0:07:41.20,0:07:42.81,*Default,NTP,0000,0000,0000,,这种说法我喜欢  杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Ooh, I like that, Jeffrey.
+Dialogue: 0,0:07:42.81,0:07:44.05,*Default,NTP,0000,0000,0000,,我不喜欢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I don't like that!
+Dialogue: 0,0:07:44.05,0:07:45.50,*Default,NTP,0000,0000,0000,,我喜欢真相\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I like the truth.
+Dialogue: 0,0:07:45.50,0:07:46.98,*Default,NTP,0000,0000,0000,,没人的时候再扮律师玩\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Play lawyer on your own time.
+Dialogue: 0,0:07:46.98,0:07:48.92,*Default,NTP,0000,0000,0000,,现在就是我的私人时间\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}This is my own time.
+Dialogue: 0,0:07:48.92,0:07:50.29,*Default,NTP,0000,0000,0000,,你不是想出点力吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You wanna be invested?
+Dialogue: 0,0:07:50.29,0:07:52.56,*Default,NTP,0000,0000,0000,,那个鬼广告会害我降工资\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Well, this dump cuts my paychecks,
+Dialogue: 0,0:07:52.56,0:07:55.41,*Default,NTP,0000,0000,0000,,我就剩三小时去维权了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and I've got three hours to defend it.
+Dialogue: 0,0:07:55.42,0:07:57.91,*Default,NTP,0000,0000,0000,,我怎么能把时间浪费在什么真相上\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}So, how many seconds of that should I waste on truth,
+Dialogue: 0,0:07:57.91,0:07:59.48,*Default,NTP,0000,0000,0000,,真相不过就是一种\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}which is an artificial construct
+Dialogue: 0,0:07:59.48,0:08:01.24,*Default,NTP,0000,0000,0000,,在法庭上基本站不住脚的虚伪概念\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}that rarely holds up in court,
+Dialogue: 0,0:08:01.24,0:08:04.73,*Default,NTP,0000,0000,0000,,对于争议结果也没有一丝作用\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and has never changed the outcome of a fight.
+Dialogue: 0,0:08:04.73,0:08:06.49,*Default,NTP,0000,0000,0000,,抱歉让你目睹到某人这么丑恶的一面\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm sorry you have to see him like this.
+Dialogue: 0,0:08:06.49,0:08:07.49,*Default,NTP,0000,0000,0000,,他也有一件事说对了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Well, he is right about one thing,
+Dialogue: 0,0:08:07.49,0:08:10.01,*Default,NTP,0000,0000,0000,,如果城市学院无法证明自己说的话\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}if City College can't support their claim,
+Dialogue: 0,0:08:10.01,0:08:12.67,*Default,NTP,0000,0000,0000,,那就是诽谤  我们可以让电台撤下广告\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}it's libel, we can have the station pull the ad,
+Dialogue: 0,0:08:12.67,0:08:15.80,*Default,NTP,0000,0000,0000,,所以我们更要查出真相\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}but that is precisely why the truth does matter.
+Dialogue: 0,0:08:15.81,0:08:17.74,*Default,NTP,0000,0000,0000,,布兰达悖论\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}The Brenda paradox.
+Dialogue: 0,0:08:17.74,0:08:19.04,*Default,NTP,0000,0000,0000,,我找到那只狗了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I found the dog.
+Dialogue: 0,0:08:19.04,0:08:20.84,*Default,NTP,0000,0000,0000,,还找到很多人的社保号\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I also found a lot of people's social security numbers.
+Dialogue: 0,0:08:20.84,0:08:22.55,*Default,NTP,0000,0000,0000,,这事已经闹大了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You know, this incident's gone to far.
+Dialogue: 0,0:08:22.55,0:08:23.42,*Default,NTP,0000,0000,0000,,是啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Yeah.
+Dialogue: 0,0:08:24.40,0:08:26.87,*Default,NTP,0000,0000,0000,,这上面说她是以伯德梗犬注册入学的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}This says she's registered as a border terrier.
+Dialogue: 0,0:08:26.87,0:08:28.13,*Default,NTP,0000,0000,0000,,广告里说的是斯塔福德犬\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}They said Staffordshire in the commercial.
+Dialogue: 0,0:08:28.13,0:08:28.95,*Default,NTP,0000,0000,0000,,这不就是料吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Isn't that something?
+Dialogue: 0,0:08:28.95,0:08:30.70,*Default,NTP,0000,0000,0000,,我们认识这畜生才半分钟\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I mean we've known this animal 30 seconds
+Dialogue: 0,0:08:30.70,0:08:32.62,*Default,NTP,0000,0000,0000,,就已经知道她不靠谱了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and she's already unreliable.
+Dialogue: 0,0:08:32.62,0:08:34.48,*Default,NTP,0000,0000,0000,,谁才是真正的来福\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Who is the real Ruffles?
+Dialogue: 0,0:08:34.48,0:08:35.18,*Default,NTP,0000,0000,0000,,打断一下\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm sorry.
+Dialogue: 0,0:08:35.18,0:08:37.78,*Default,NTP,0000,0000,0000,,我们的对策就是抹黑那只狗吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Our strategy is to go after the dog?
+Dialogue: 0,0:08:37.78,0:08:39.73,*Default,NTP,0000,0000,0000,,我们的对策就是否认\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Our strategy is denial,
+Dialogue: 0,0:08:39.73,0:08:41.98,*Default,NTP,0000,0000,0000,,其中包括降低消息源的可信度\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}which includes discrediting the source.
+Dialogue: 0,0:08:41.99,0:08:43.66,*Default,NTP,0000,0000,0000,,阿布蒂  你能做一段攻击广告吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Abed, can you make one of those attack ads?
+Dialogue: 0,0:08:43.66,0:08:45.46,*Default,NTP,0000,0000,0000,,杰夫是要把我做成攻击广告\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Jeff wants me to make me an attack ad.
+Dialogue: 0,0:08:45.46,0:08:47.01,*Default,NTP,0000,0000,0000,,那他为什么会有恋童癖\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}So, why is he a pedophile?
+Dialogue: 0,0:08:48.47,0:08:49.66,*Default,NTP,0000,0000,0000,,我在进行情节设置\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Just demonstrating the formula.
+Dialogue: 0,0:08:49.66,0:08:52.15,*Default,NTP,0000,0000,0000,,你可以一边做一边琢磨\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You can refine your technique as you go.
+Dialogue: 0,0:08:52.15,0:08:55.22,*Default,NTP,0000,0000,0000,,我要知道关于这个来福的一切\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I wanna know everything about this Ruffles,
+Dialogue: 0,0:08:55.22,0:08:57.77,*Default,NTP,0000,0000,0000,,她以为自己在这里读过书  行啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}she thinks she went to this school, fine.
+Dialogue: 0,0:08:57.77,0:09:00.83,*Default,NTP,0000,0000,0000,,她说不定还觉得喵便便好吃呢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}But, maybe she thinks cat turds are delicious.
+Dialogue: 0,0:09:00.83,0:09:04.46,*Default,NTP,0000,0000,0000,,她说不定还会因为邮递员是黑人而多吠几声呢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}And maybe she barks just a little bit more, at black mailmen.
+Dialogue: 0,0:09:04.46,0:09:06.21,*Default,NTP,0000,0000,0000,,虽说她现在不能生育了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}And she's spayed now,
+Dialogue: 0,0:09:06.61,0:09:07.98,*Default,NTP,0000,0000,0000,,但谁知道她撒过多少野种\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}but how many puppies are out there?
+Dialogue: 0,0:09:07.98,0:09:10.39,*Default,NTP,0000,0000,0000,,你要这么做  那咱和城市学院也是一路货色\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}If you do this, we're no better than City College.
+Dialogue: 0,0:09:10.39,0:09:12.24,*Default,NTP,0000,0000,0000,,我们本来就是一路货色\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We've never been better than City College.
+Dialogue: 0,0:09:12.24,0:09:14.31,*Default,NTP,0000,0000,0000,,我们都给狗颁学位了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We gave a degree to a dog.
+Dialogue: 0,0:09:14.74,0:09:17.44,*Default,NTP,0000,0000,0000,,据说是  这次会议内容一定要保密\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Allegedly. This conversation is privileged.
+Dialogue: 0,0:09:17.44,0:09:20.84,*Default,NTP,0000,0000,0000,,我可以把班克斯风格的狗涂鸦\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I could do a Banksy style stencil of a dog,
+Dialogue: 0,0:09:20.84,0:09:22.46,*Default,NTP,0000,0000,0000,,喷满整个校园\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and spray paint it all over a school.
+Dialogue: 0,0:09:22.46,0:09:23.37,*Default,NTP,0000,0000,0000,,真棒\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}That sounds great!
+Dialogue: 0,0:09:23.37,0:09:25.94,*Default,NTP,0000,0000,0000,,但不如你先找些咖啡\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}But first, why don't you go get a bunch of coffee,
+Dialogue: 0,0:09:25.94,0:09:29.64,*Default,NTP,0000,0000,0000,,喝光光后  再弄一些带到这儿来\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}drink all of it, then go get some more and bring it back here.
+Dialogue: 0,0:09:29.84,0:09:31.46,*Default,NTP,0000,0000,0000,,我喜欢这主意\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I actually love that idea.
+Dialogue: 0,0:09:31.63,0:09:32.76,*Default,NTP,0000,0000,0000,,我和她一起\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'll go with her.
+Dialogue: 0,0:09:33.45,0:09:34.56,*Default,NTP,0000,0000,0000,,谁叫她穿着我的裤子呢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}She's wearing my pants.
+Dialogue: 0,0:09:34.56,0:09:35.74,*Default,NTP,0000,0000,0000,,我知道现在都疯了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I know this is crazy,
+Dialogue: 0,0:09:35.74,0:09:38.63,*Default,NTP,0000,0000,0000,,我去档案处查查\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}but I'm gonna check the school records to see if,
+Dialogue: 0,0:09:39.25,0:09:41.81,*Default,NTP,0000,0000,0000,,看看我们是不是真的给狗颁过学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}you know, we gave a degree to a dog.
+Dialogue: 0,0:09:42.04,0:09:42.99,*Default,NTP,0000,0000,0000,,-没有  -太好了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- We didn't. - That's good.
+Dialogue: 0,0:09:42.99,0:09:45.74,*Default,NTP,0000,0000,0000,,你们去找你们心爱的真相吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You guys go find that truth you love so much.
+Dialogue: 0,0:09:45.75,0:09:48.06,*Default,NTP,0000,0000,0000,,如果我们能用得上  马上带来\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}If it's the kind. Kind we can use, bring it back.
+Dialogue: 0,0:09:48.06,0:09:50.88,*Default,NTP,0000,0000,0000,,如果不是  就地销毁证据\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}If not, you know, stuff gets lost.
+Dialogue: 0,0:09:50.91,0:09:52.53,*Default,NTP,0000,0000,0000,,不要  你个坏蛋\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}No. No. Bad!
+Dialogue: 0,0:09:52.53,0:09:54.48,*Default,NTP,0000,0000,0000,,我们和城市学院不一样\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We are better than City College.
+Dialogue: 0,0:09:54.48,0:09:55.66,*Default,NTP,0000,0000,0000,,一直如此\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We always have been.
+Dialogue: 0,0:09:55.66,0:09:59.94,*Default,NTP,0000,0000,0000,,所以我知道  我们没有给狗颁过学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Which is why I know, that we did not give a degree to a dog.
+Dialogue: 0,0:10:09.43,0:10:11.50,*Default,NTP,0000,0000,0000,,要我说  我们就该以毒攻毒\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I say we fight fire with fire.
+Dialogue: 0,0:10:11.50,0:10:13.60,*Default,NTP,0000,0000,0000,,城市学院想要羞辱我们\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}City College try to embarrass us?
+Dialogue: 0,0:10:13.72,0:10:16.27,*Default,NTP,0000,0000,0000,,-我们也要羞辱他们  对不对  - 对\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- We should embarrass them, right?  - Right.
+Dialogue: 0,0:10:16.27,0:10:19.03,*Default,NTP,0000,0000,0000,,不如我带着摄像机潜进城市学院\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I say I go to City College with a camera,
+Dialogue: 0,0:10:19.03,0:10:20.92,*Default,NTP,0000,0000,0000,,拍一段不堪入目的小电影\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}shoot a really gross porno movie
+Dialogue: 0,0:10:20.93,0:10:22.64,*Default,NTP,0000,0000,0000,,然后放到网上去\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}on their campus and put it online.
+Dialogue: 0,0:10:22.64,0:10:24.16,*Default,NTP,0000,0000,0000,,-好啊  -妥了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- Fine. - Cool.
+Dialogue: 0,0:10:26.75,0:10:27.74,*Default,NTP,0000,0000,0000,,等等  什么\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Wait, what?
+Dialogue: 0,0:10:34.05,0:10:36.67,*Default,NTP,0000,0000,0000,,看你工作的样子真有劲儿\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It's very inspiring to watch you work.
+Dialogue: 0,0:10:36.67,0:10:39.47,*Default,NTP,0000,0000,0000,,你也激励着我\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You are inspiring, too.
+Dialogue: 0,0:10:40.69,0:10:42.11,*Default,NTP,0000,0000,0000,,怎么激励的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}In what way?
+Dialogue: 0,0:10:42.63,0:10:45.87,*Default,NTP,0000,0000,0000,,我想要橄榄  能给我拿一些来吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I need olives, can you bring me olives?
+Dialogue: 0,0:10:46.18,0:10:47.10,*Default,NTP,0000,0000,0000,,又来啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Not again.
+Dialogue: 0,0:10:47.10,0:10:49.03,*Default,NTP,0000,0000,0000,,一个月之前你就这么干过\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You did this a month ago.
+Dialogue: 0,0:10:49.03,0:10:52.65,*Default,NTP,0000,0000,0000,,可我给你的时候  你却很不喜欢的样子\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Then I brought them to you, and you acted like you hated them.
+Dialogue: 0,0:10:52.86,0:10:54.73,*Default,NTP,0000,0000,0000,,这是我们之间的秘密\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It's only my style to be secret,
+Dialogue: 0,0:10:54.74,0:10:57.45,*Default,NTP,0000,0000,0000,,请给我拿五罐橄榄来\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}please bring me five can of olive.
+Dialogue: 0,0:10:57.90,0:10:59.61,*Default,NTP,0000,0000,0000,,五罐\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Five cans?
+Dialogue: 0,0:10:59.62,0:11:02.25,*Default,NTP,0000,0000,0000,,如果我说不喜欢  别信我的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}But don't believe me if I say I don't like.
+Dialogue: 0,0:11:02.26,0:11:05.08,*Default,NTP,0000,0000,0000,,我只是假装不喜欢橄榄\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm just pretending I hate olives.
+Dialogue: 0,0:11:12.46,0:11:14.79,*Default,NTP,0000,0000,0000,,说实话  我一点都不在乎\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Honestly? I couldn't care less
+Dialogue: 0,0:11:14.79,0:11:16.88,*Default,NTP,0000,0000,0000,,学校是不是给狗颁了学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}if they gave a dog a degree.
+Dialogue: 0,0:11:17.62,0:11:18.58,*Default,NTP,0000,0000,0000,,我也是\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Me neither.
+Dialogue: 0,0:11:19.34,0:11:22.11,*Default,NTP,0000,0000,0000,,说真的  我还希望他们给了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}In fact, I kinda hope they did.
+Dialogue: 0,0:11:22.11,0:11:23.99,*Default,NTP,0000,0000,0000,,-为什么  -我也不知道\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- Well, why is that? - I don't know.
+Dialogue: 0,0:11:24.29,0:11:26.62,*Default,NTP,0000,0000,0000,,他们都觉得我是个笑话\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}They all treat me like I'm a joke.
+Dialogue: 0,0:11:26.82,0:11:29.27,*Default,NTP,0000,0000,0000,,但如果狗都拿到了学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}But if a dog got a degree,
+Dialogue: 0,0:11:29.29,0:11:31.02,*Default,NTP,0000,0000,0000,,那说明我们都不过是个笑话\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}that means we're all a joke.
+Dialogue: 0,0:11:34.42,0:11:36.61,*Default,NTP,0000,0000,0000,,「冰冻娜塔莉」乐队\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Natalie is Freezing?
+Dialogue: 0,0:11:36.87,0:11:37.52,*Default,NTP,0000,0000,0000,,你知道他们\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You know them?
+Dialogue: 0,0:11:37.52,0:11:39.44,*Default,NTP,0000,0000,0000,,当然  可你怎么会...\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Yeah of course I know them. But how do you?
+Dialogue: 0,0:11:39.44,0:11:40.27,*Default,NTP,0000,0000,0000,,-你...  -是黑人吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- You're ... - Black?
+Dialogue: 0,0:11:40.27,0:11:41.63,*Default,NTP,0000,0000,0000,,不  是老了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}No. Old.
+Dialogue: 0,0:11:42.41,0:11:44.44,*Default,NTP,0000,0000,0000,,对不起  我的意思是\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Oh, I'm sorry. I just meant that,
+Dialogue: 0,0:11:44.77,0:11:46.47,*Default,NTP,0000,0000,0000,,我可是15岁的时候迷上他们的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}when I was into them I was like 15.
+Dialogue: 0,0:11:46.47,0:11:47.86,*Default,NTP,0000,0000,0000,,我那会儿40了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I was like 40.
+Dialogue: 0,0:11:47.91,0:11:50.09,*Default,NTP,0000,0000,0000,,成人后  我并不怎么听音乐\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I never really listened to music, when I was growing up.
+Dialogue: 0,0:11:50.09,0:11:51.61,*Default,NTP,0000,0000,0000,,我沉浸在自己的世界里\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I was in my own world,
+Dialogue: 0,0:11:52.37,0:11:55.18,*Default,NTP,0000,0000,0000,,但有天工作的时候  我听到了一段旋律\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}but one day at work, I heard this sound.
+Dialogue: 0,0:11:55.18,0:11:57.29,*Default,NTP,0000,0000,0000,,是「垃圾之柱」\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It was Pillar of Garbage.
+Dialogue: 0,0:11:57.50,0:11:59.13,*Default,NTP,0000,0000,0000,,那是他们最棒的歌\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Oh, that is their best song.
+Dialogue: 0,0:11:59.13,0:12:00.60,*Default,NTP,0000,0000,0000,,最棒的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Best song.
+Dialogue: 0,0:12:00.60,0:12:01.78,*Default,NTP,0000,0000,0000,,这里就有\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I've got it right here.
+Dialogue: 0,0:12:01.78,0:12:03.37,*Default,NTP,0000,0000,0000,,-能放放吗  -好\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- Would you play it? - Yeah.
+Dialogue: 0,0:12:42.39,0:12:43.87,*Default,NTP,0000,0000,0000,,知道不\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You know, you know what?
+Dialogue: 0,0:12:43.92,0:12:45.72,*Default,NTP,0000,0000,0000,,那帮人想要掩盖狗拿学位的事情\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You know, those guys are going to need coffee
+Dialogue: 0,0:12:45.72,0:12:48.03,*Default,NTP,0000,0000,0000,,就一定会需要咖啡的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}if they're going to keep that dog from having a degree.
+Dialogue: 0,0:12:48.06,0:12:50.37,*Default,NTP,0000,0000,0000,,这可是十万火急的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}There are things at, at stake here.
+Dialogue: 0,0:12:50.69,0:12:52.26,*Default,NTP,0000,0000,0000,,我现在明白了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I, I get that now.
+Dialogue: 0,0:12:56.37,0:12:57.60,*Default,NTP,0000,0000,0000,,我闻到一股味儿\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I found the smell.
+Dialogue: 0,0:12:58.08,0:12:59.66,*Default,NTP,0000,0000,0000,,有人把墨西哥卷放档案里了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Someone filed a taco.
+Dialogue: 0,0:13:00.87,0:13:04.15,*Default,NTP,0000,0000,0000,,真正需要归档的东西早已成我身上膘\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Things that will otherwise get filed straight to my thighs.
+Dialogue: 0,0:13:06.26,0:13:10.46,*Default,NTP,0000,0000,0000,,我知道你是赞同找出真相的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}so I know you agree with me that we need to find the truth, but...
+Dialogue: 0,0:13:10.75,0:13:12.81,*Default,NTP,0000,0000,0000,,但你是不是也认为  真相并不可怕\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Do you agree that the truth won't be horrible?
+Dialogue: 0,0:13:12.81,0:13:14.19,*Default,NTP,0000,0000,0000,,我又不是灵媒  安妮\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm not psychic, Annie,
+Dialogue: 0,0:13:14.19,0:13:16.87,*Default,NTP,0000,0000,0000,,那是一种极端准备情绪而引发的幻觉\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}that's an illusion caused by extreme preparedness.
+Dialogue: 0,0:13:16.87,0:13:18.64,*Default,NTP,0000,0000,0000,,那你希望真相是什么\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}But, what do you hope is true?
+Dialogue: 0,0:13:18.64,0:13:20.18,*Default,NTP,0000,0000,0000,,天啊  我从不心怀希望\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Oh God no, I never hope.
+Dialogue: 0,0:13:20.18,0:13:21.83,*Default,NTP,0000,0000,0000,,希望会让你杞人忧天\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Hope is pouting in advance.
+Dialogue: 0,0:13:21.83,0:13:24.34,*Default,NTP,0000,0000,0000,,希望和信仰是姐妹  不过更富更贱\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Hope is faith's richer, bitchier sister.
+Dialogue: 0,0:13:24.34,0:13:26.88,*Default,NTP,0000,0000,0000,,希望是特权和恐惧乱伦所生下的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Hope is the deformed addict bound incest
+Dialogue: 0,0:13:26.88,0:13:29.19,*Default,NTP,0000,0000,0000,,瘾君子  畸形儿\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}monster offspring of entitlement and fear.
+Dialogue: 0,0:13:29.19,0:13:31.52,*Default,NTP,0000,0000,0000,,当我放弃希望和手机上所有的农场游戏后\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}My life results tripled the year I gave up hope
+Dialogue: 0,0:13:31.52,0:13:34.35,*Default,NTP,0000,0000,0000,,我的人生成就整整翻了三倍\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and every game on my phone that had anything to do with farming.
+Dialogue: 0,0:13:34.35,0:13:36.30,*Default,NTP,0000,0000,0000,,真的就是真的  安妮\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}What's true will be true, Annie.
+Dialogue: 0,0:13:36.34,0:13:38.33,*Default,NTP,0000,0000,0000,,我们的工作就是应对真相\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Our job is to deal with that truth.
+Dialogue: 0,0:13:38.98,0:13:40.54,*Default,NTP,0000,0000,0000,,你的语气有点像杰夫\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You sound a little like Jeff.
+Dialogue: 0,0:13:40.54,0:13:42.28,*Default,NTP,0000,0000,0000,,杰夫说我像阿布蒂\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Jeff said I sound like Abed.
+Dialogue: 0,0:13:42.28,0:13:44.70,*Default,NTP,0000,0000,0000,,我在想  布雷塔是不是觉得我像昌\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I wonder if Britta thinks I sound like Chang.
+Dialogue: 0,0:13:44.70,0:13:46.54,*Default,NTP,0000,0000,0000,,我觉得昌会觉得我像\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I assume Change thinks I sound like
+Dialogue: 0,0:13:46.54,0:13:48.90,*Default,NTP,0000,0000,0000,,远方的爆炸和嚎哭的婴儿\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}distant explosions and crying babies.
+Dialogue: 0,0:13:48.90,0:13:50.58,*Default,NTP,0000,0000,0000,,你知道他不太正常  对吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You know, he's unstable, right?
+Dialogue: 0,0:13:50.58,0:13:51.51,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Yep.
+Dialogue: 0,0:13:52.39,0:13:55.93,*Default,NTP,0000,0000,0000,,来福的档案\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Oh, a transcript for Ruffles.
+Dialogue: 0,0:13:55.93,0:13:57.43,*Default,NTP,0000,0000,0000,,那就是我们要找的狗吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You think that's our guy?
+Dialogue: 0,0:13:58.45,0:13:59.49,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I do.
+Dialogue: 0,0:14:03.71,0:14:04.95,*Default,NTP,0000,0000,0000,,天啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Oh my God.
+Dialogue: 0,0:14:05.98,0:14:08.24,*Default,NTP,0000,0000,0000,,上了这么多课\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}So many classes.
+Dialogue: 0,0:14:10.40,0:14:12.70,*Default,NTP,0000,0000,0000,,看到心怀希望的后果了吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}See what hope does?
+Dialogue: 0,0:14:12.70,0:14:14.66,*Default,NTP,0000,0000,0000,,你讨厌了啦  弗兰\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Screw you, Frankie!
+Dialogue: 0,0:14:15.46,0:14:16.57,*Default,NTP,0000,0000,0000,,我很抱歉  安妮\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm sorry, Annie.
+Dialogue: 0,0:14:16.91,0:14:18.90,*Default,NTP,0000,0000,0000,,但我觉得你还没看到全部\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}But I don't think you're seeing this for what it is.
+Dialogue: 0,0:14:18.90,0:14:21.50,*Default,NTP,0000,0000,0000,,一只狗的档案\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It's a transcript for a dog.
+Dialogue: 0,0:14:21.50,0:14:24.32,*Default,NTP,0000,0000,0000,,好厚一本呢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}A really, really long one!
+Dialogue: 0,0:14:24.38,0:14:25.85,*Default,NTP,0000,0000,0000,,杰夫是对的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It's proof that Jeff was right.
+Dialogue: 0,0:14:25.85,0:14:27.50,*Default,NTP,0000,0000,0000,,这所学校毫无价值\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}This school has no value.
+Dialogue: 0,0:14:27.50,0:14:29.85,*Default,NTP,0000,0000,0000,,但这里没有学位证\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Yeah, but this folder has no degree.
+Dialogue: 0,0:14:29.85,0:14:32.88,*Default,NTP,0000,0000,0000,,-看  -什么\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- Look. - What's that?
+Dialogue: 0,0:14:33.91,0:14:34.94,*Default,NTP,0000,0000,0000,,胜利\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Victory.
+Dialogue: 0,0:14:35.12,0:14:37.17,*Default,NTP,0000,0000,0000,,格林德尔式胜利\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You know, within the context of Greendale.
+Dialogue: 0,0:14:39.25,0:14:40.87,*Default,NTP,0000,0000,0000,,-这样会不会好一点  -不会\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- Would it be better if we-. - No.
+Dialogue: 0,0:14:41.74,0:14:42.67,*Default,NTP,0000,0000,0000,,你不试怎么知道\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Never know until you try.
+Dialogue: 0,0:14:42.67,0:14:44.32,*Default,NTP,0000,0000,0000,,-我不试都知道  - 什么\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- Never know until I try.  - What?
+Dialogue: 0,0:14:44.32,0:14:45.39,*Default,NTP,0000,0000,0000,,咱们组队真棒\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I said we're quite a team.
+Dialogue: 0,0:14:45.39,0:14:47.35,*Default,NTP,0000,0000,0000,,咖啡来了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Here's the coffee.
+Dialogue: 0,0:14:48.15,0:14:50.12,*Default,NTP,0000,0000,0000,,如果还有什么需要我帮忙的  尽管说\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Let me know if there's anything else I can do to help.
+Dialogue: 0,0:14:50.12,0:14:52.12,*Default,NTP,0000,0000,0000,,你们来给这段视频提提意见\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We could use some fresh eyes on this cut.
+Dialogue: 0,0:14:52.12,0:14:52.65,*Default,NTP,0000,0000,0000,,用得着吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We could?
+Dialogue: 0,0:14:52.65,0:14:53.91,*Default,NTP,0000,0000,0000,,没人跟你说过  和你共事真的很不舒服吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Has anyone told you you're difficult to work with?
+Dialogue: 0,0:14:53.91,0:14:55.96,*Default,NTP,0000,0000,0000,,你那行的都这么说\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Everyone in your line of work.
+Dialogue: 0,0:14:57.03,0:14:58.47,*Default,NTP,0000,0000,0000,,这是来福\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}This is Ruffles.
+Dialogue: 0,0:14:58.47,0:14:59.40,*Default,NTP,0000,0000,0000,,她迷惑着你\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}She'd like you to believe
+Dialogue: 0,0:14:59.40,0:15:01.34,*Default,NTP,0000,0000,0000,,让你觉得她是个乖乖的大学毕业生\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}she's a college graduate and a good girl.
+Dialogue: 0,0:15:01.35,0:15:03.41,*Default,NTP,0000,0000,0000,,千万别被来福骗了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}But Ruffles is anything, but-.
+Dialogue: 0,0:15:03.41,0:15:06.26,*Default,NTP,0000,0000,0000,,2007年  当来福搬进社区\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}When Ruffles moved into her neighborhood in 2007,
+Dialogue: 0,0:15:06.26,0:15:08.80,*Default,NTP,0000,0000,0000,,松鼠的死亡率上升了17%\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}dead squirrels went up by 17%.
+Dialogue: 0,0:15:08.80,0:15:09.65,*Default,NTP,0000,0000,0000,,是巧合吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Coincidence?
+Dialogue: 0,0:15:09.65,0:15:11.18,*Default,NTP,0000,0000,0000,,问问这只兔兔吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Ask this bunny.
+Dialogue: 0,0:15:11.26,0:15:13.48,*Default,NTP,0000,0000,0000,,来福还偷过一位女童子军的饼干\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Ruffles stole cookies from a Girl Scout,
+Dialogue: 0,0:15:13.48,0:15:15.24,*Default,NTP,0000,0000,0000,,假装成龙虾\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}impersonated a lobster,
+Dialogue: 0,0:15:15.24,0:15:17.86,*Default,NTP,0000,0000,0000,,育有27只狗宝宝  分别来自5位父亲\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}has had 27 children with five different fathers,
+Dialogue: 0,0:15:17.86,0:15:20.42,*Default,NTP,0000,0000,0000,,另外据本地医生声称  她还携带有寄生虫\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and, according to one local doctor, has worms.
+Dialogue: 0,0:15:20.42,0:15:22.53,*Default,NTP,0000,0000,0000,,也许来福会说自己没干\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Ruffles might claim she doesn't.
+Dialogue: 0,0:15:22.54,0:15:24.53,*Default,NTP,0000,0000,0000,,来福干过的事可不止如此\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Ruffles claims a lot of things,
+Dialogue: 0,0:15:24.53,0:15:28.12,*Default,NTP,0000,0000,0000,,没准这就是她有次被关入死囚牢房的原因呢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}maybe that's why Ruffles once spent time on death row.
+Dialogue: 0,0:15:28.12,0:15:30.01,*Default,NTP,0000,0000,0000,,来福  不是小龙虾\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Ruffles, not a lobster, 
+Dialogue: 0,0:15:30.02,0:15:32.58,*Default,NTP,0000,0000,0000,,亦非学子  更不是好狗狗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}not a student, not a good dog.
+Dialogue: 0,0:15:32.58,0:15:34.55,*Default,NTP,0000,0000,0000,,「人类对来福」出资\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Paid for by Humanity versus Ruffles.
+Dialogue: 0,0:15:35.42,0:15:36.58,*Default,NTP,0000,0000,0000,,我本来是想搞一个\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I originally wanted the voice over to be 
+Dialogue: 0,0:15:36.58,0:15:37.84,*Default,NTP,0000,0000,0000,,詹姆斯·琼斯模拟音\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}a James roll Jones impersonator,
+Dialogue: 0,0:15:37.84,0:15:40.26,*Default,NTP,0000,0000,0000,,但詹姆斯·贝特的模拟音居然也很不错\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}but the James Bater impersonator turned out pretty good.
+Dialogue: 0,0:15:41.53,0:15:43.16,*Default,NTP,0000,0000,0000,,我真希望他已经走人了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I do wish he'd leave, though.
+Dialogue: 0,0:15:45.38,0:15:46.95,*Default,NTP,0000,0000,0000,,-你们还真给狗颁学位了  -对\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- You really let that dog have it. - Yeah.
+Dialogue: 0,0:15:46.95,0:15:50.69,*Default,NTP,0000,0000,0000,,现在我认为这一点相当重要了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Which I, I realize, is important now.
+Dialogue: 0,0:15:50.86,0:15:51.99,*Default,NTP,0000,0000,0000,,我想睡觉  可不可以...\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Is it okay if I crash on-.
+Dialogue: 0,0:15:51.99,0:15:53.14,*Default,NTP,0000,0000,0000,,-可以  -行\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- Yeah. -Yes.
+Dialogue: 0,0:16:00.03,0:16:00.79,*Default,NTP,0000,0000,0000,,你在干什么\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}What are you doing?
+Dialogue: 0,0:16:00.79,0:16:01.74,*Default,NTP,0000,0000,0000,,没干什么\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Nothing at all.
+Dialogue: 0,0:16:01.74,0:16:02.31,*Default,NTP,0000,0000,0000,,才不是呢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I wouldn't say that. 
+Dialogue: 0,0:16:02.31,0:16:04.70,*Default,NTP,0000,0000,0000,,你刚刚把五罐橄榄放在我旁边\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You just put five huge cans of olives next to me.
+Dialogue: 0,0:16:05.25,0:16:07.33,*Default,NTP,0000,0000,0000,,我想做就这么做了呀\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Just something I felt like doing.
+Dialogue: 0,0:16:08.22,0:16:10.16,*Default,NTP,0000,0000,0000,,你已经不是第一次做这种事了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}This isn't the first time you've done this.
+Dialogue: 0,0:16:12.12,0:16:14.34,*Default,NTP,0000,0000,0000,,我真被你搞糊涂了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm really confused by this.
+Dialogue: 0,0:16:16.20,0:16:17.35,*Default,NTP,0000,0000,0000,,这是什么暗号吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Is it code for something?
+Dialogue: 0,0:16:17.35,0:16:18.54,*Default,NTP,0000,0000,0000,,不知道\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I don't know.
+Dialogue: 0,0:16:19.40,0:16:20.70,*Default,NTP,0000,0000,0000,,我也不关心\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}And I don't care.
+Dialogue: 0,0:16:23.54,0:16:25.66,*Default,NTP,0000,0000,0000,,中头奖了  格林德尔的头奖\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Jackpot, relative to Greendale.
+Dialogue: 0,0:16:27.92,0:16:31.15,*Default,NTP,0000,0000,0000,,天  瞅瞅这么多课  这狗真是畜生出身吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}My God, look at the course load, this dog was an animal.
+Dialogue: 0,0:16:31.15,0:16:32.77,*Default,NTP,0000,0000,0000,,绝大部分课还是要出勤率的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Most of them were attendance based.
+Dialogue: 0,0:16:32.77,0:16:34.18,*Default,NTP,0000,0000,0000,,这算什么好消息\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}How is this good news?
+Dialogue: 0,0:16:35.36,0:16:37.65,*Default,NTP,0000,0000,0000,,图书馆费未付  15美元\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Unpaid library fees, 15 dollars,
+Dialogue: 0,0:16:37.65,0:16:40.44,*Default,NTP,0000,0000,0000,,学位证书暂扣直到偿清欠款\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}diploma withheld until payment remitted.
+Dialogue: 0,0:16:40.99,0:16:43.69,*Default,NTP,0000,0000,0000,,学位没发  那个广告是骗人的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}No degree, the commercial's a lie.
+Dialogue: 0,0:16:43.69,0:16:46.15,*Default,NTP,0000,0000,0000,,我马上打给电台让他们撤掉广告\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm gonna call the station right now and have them pull the ad.
+Dialogue: 0,0:16:46.15,0:16:48.59,*Default,NTP,0000,0000,0000,,去吃屎吧来福  不限于吃你自己的哟\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Eat crap Ruffles, and not just your own.
+Dialogue: 0,0:16:48.59,0:16:50.93,*Default,NTP,0000,0000,0000,,大家消停会儿好吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Guys, let it go.
+Dialogue: 0,0:16:50.93,0:16:51.75,*Default,NTP,0000,0000,0000,,你在说什么啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}What are you talking about?
+Dialogue: 0,0:16:51.75,0:16:55.00,*Default,NTP,0000,0000,0000,,事实的悲哀在于一只狗都可以拿到学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}The sad truth is that a dog can get a degree here.
+Dialogue: 0,0:16:55.00,0:16:57.09,*Default,NTP,0000,0000,0000,,但让人高兴的事实是没有狗拿到了学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Yeah, but the happy truth is none did.
+Dialogue: 0,0:16:57.09,0:17:00.08,*Default,NTP,0000,0000,0000,,真相和诚实是有区别的好吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}There's a difference between truth and honesty.
+Dialogue: 0,0:17:00.46,0:17:01.99,*Default,NTP,0000,0000,0000,,图书馆费\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Library dues?
+Dialogue: 0,0:17:01.99,0:17:03.40,*Default,NTP,0000,0000,0000,,谁在乎啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Who cares!
+Dialogue: 0,0:17:03.50,0:17:06.15,*Default,NTP,0000,0000,0000,,来福在格林德尔上过学\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Ruffles put the work in relative to Greendale.
+Dialogue: 0,0:17:06.15,0:17:09.56,*Default,NTP,0000,0000,0000,,城市学院的广告从技术上讲也许是谎言\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}That City College ad may be technically a lie, 
+Dialogue: 0,0:17:09.56,0:17:13.28,*Default,NTP,0000,0000,0000,,但如果将这个广告撤下来才叫不诚实呢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}but it's really dishonest to kill it on a technicality.
+Dialogue: 0,0:17:13.43,0:17:16.29,*Default,NTP,0000,0000,0000,,还有抹黑一只狗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}And dragging this dog's name through the mud?
+Dialogue: 0,0:17:16.39,0:17:17.65,*Default,NTP,0000,0000,0000,,这种事比不诚实还恶劣\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}That's worse than dishonest.
+Dialogue: 0,0:17:17.65,0:17:18.76,*Default,NTP,0000,0000,0000,,简直是罪恶\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}That's evil!
+Dialogue: 0,0:17:18.77,0:17:20.17,*Default,NTP,0000,0000,0000,,罪恶\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Evil?
+Dialogue: 0,0:17:20.35,0:17:21.44,*Default,NTP,0000,0000,0000,,我承认是很傻\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'll cop to silly.
+Dialogue: 0,0:17:21.44,0:17:24.57,*Default,NTP,0000,0000,0000,,有些东西又傻又邪恶  比如糖果香烟\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Somethings are silly and evil, like candy cigarettes.
+Dialogue: 0,0:17:24.89,0:17:27.19,*Default,NTP,0000,0000,0000,,还记得弗拉瓦·法拉演的那个真人秀吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}And remember when Flava Flav had that reality show?
+Dialogue: 0,0:17:27.19,0:17:28.60,*Default,NTP,0000,0000,0000,,我家没电视\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I don't own a TV.
+Dialogue: 0,0:17:32.10,0:17:36.26,*Default,NTP,0000,0000,0000,,说实话  我觉得现在我们最应该做的事情\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Honestly, I think the most honest thing we can do right now.
+Dialogue: 0,0:17:36.26,0:17:39.58,*Default,NTP,0000,0000,0000,,唯一能证明我们比城市学院更优秀的事情\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}The only thing that will make us better then City College,
+Dialogue: 0,0:17:39.58,0:17:42.78,*Default,NTP,0000,0000,0000,,就是让广告播出  接受我们应有的报应\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}is to let that ad run and take our lumps.
+Dialogue: 0,0:17:43.34,0:17:45.56,*Default,NTP,0000,0000,0000,,安妮  这件事一开始是我要睡觉\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Annie, this started with me sleeping 
+Dialogue: 0,0:17:45.56,0:17:47.35,*Default,NTP,0000,0000,0000,,然后被你嚎着说我不帮忙\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and getting yelled at for not helping.
+Dialogue: 0,0:17:47.35,0:17:49.70,*Default,NTP,0000,0000,0000,,如果这件事结果是你冲我嚎  因为我没睡觉\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}If it ends with you yelling at me for not sleeping, 
+Dialogue: 0,0:17:49.70,0:17:52.54,*Default,NTP,0000,0000,0000,,这可算不上是故事  而是德国艺术电影\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}that's not a story, that's a German art film.
+Dialogue: 0,0:17:54.37,0:17:55.43,*Default,NTP,0000,0000,0000,,别闹了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Let, let it go.
+Dialogue: 0,0:17:55.43,0:17:57.13,*Default,NTP,0000,0000,0000,,你个堂堂男老师居然用力气\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am a female student being physically 
+Dialogue: 0,0:17:57.14,0:17:58.87,*Default,NTP,0000,0000,0000,,压制我这个娇弱女学生\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}overpowered by a male teacher.
+Dialogue: 0,0:17:58.87,0:17:59.73,*Default,NTP,0000,0000,0000,,该死\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Damn it!
+Dialogue: 0,0:17:59.84,0:18:01.05,*Default,NTP,0000,0000,0000,,布雷塔  按住她\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Britta, get her.
+Dialogue: 0,0:18:02.48,0:18:03.31,*Default,NTP,0000,0000,0000,,弗兰  你上\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Frankie, get her!
+Dialogue: 0,0:18:03.31,0:18:06.56,*Default,NTP,0000,0000,0000,,安妮小亲亲  你好好想想\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Annie, sweetie, think about this practically.
+Dialogue: 0,0:18:06.67,0:18:08.87,*Default,NTP,0000,0000,0000,,如果证明我们比城市学院优秀的方式\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}If being better than City College means 
+Dialogue: 0,0:18:08.87,0:18:11.35,*Default,NTP,0000,0000,0000,,是任由他们毁灭掉我们  那又有什么意义呢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}letting them destroy us then what is the point?
+Dialogue: 0,0:18:11.35,0:18:15.89,*Default,NTP,0000,0000,0000,,如果像他们一样才能苟且偷生有什么意义\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}If surviving means being like them, what's the point?
+Dialogue: 0,0:18:16.88,0:18:18.46,*Default,NTP,0000,0000,0000,,不如就让这个学校消亡好了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Why not let one school die,
+Dialogue: 0,0:18:18.46,0:18:21.27,*Default,NTP,0000,0000,0000,,然后进一所把我的学位当回事的学校\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and enroll at the one where my grades matter.
+Dialogue: 0,0:18:22.72,0:18:24.37,*Default,NTP,0000,0000,0000,,如果这是你的条件\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}If those are your terms.
+Dialogue: 0,0:18:24.54,0:18:27.37,*Default,NTP,0000,0000,0000,,如果那份成绩档案的代价是允许你转校的话\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}If the price of that transcript is you transferring?
+Dialogue: 0,0:18:34.06,0:18:35.18,*Default,NTP,0000,0000,0000,,我们接受\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We accept.
+Dialogue: 0,0:18:35.31,0:18:37.16,*Default,NTP,0000,0000,0000,,不过我个人希望你只是在瞎咋呼\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Personally, I hope you're bluffing.
+Dialogue: 0,0:18:38.83,0:18:40.94,*Default,NTP,0000,0000,0000,,这就是你所谓的希望\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Yeah, well, here's what hope gets you.
+Dialogue: 0,0:18:41.70,0:18:43.65,*Default,NTP,0000,0000,0000,,拿着希望和这一块四毛九去买糖吃吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Hope and $1.49 will get you a candy bar.
+Dialogue: 0,0:18:43.65,0:18:46.25,*Default,NTP,0000,0000,0000,,-是79  -真的假的  要了命了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- Buck 79. - Are you serious? Jesus!
+Dialogue: 0,0:18:47.36,0:18:51.48,*Default,NTP,0000,0000,0000,,随你们高兴吧  这个招摇撞骗  \N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Have fun with your lying, cheating, 
+Dialogue: 0,0:18:51.77,0:18:53.39,*Default,NTP,0000,0000,0000,,抹黑狗狗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}dog smearing,
+Dialogue: 0,0:18:53.59,0:18:58.14,*Default,NTP,0000,0000,0000,,混淆事实  乱穿裤子的破学校\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}truth blurring, trouser swapping school.
+Dialogue: 0,0:19:00.48,0:19:02.78,*Default,NTP,0000,0000,0000,,我不记得当年糖块只有50分时是怎么做的了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I don't remember when candy bars were 50 cents.
+Dialogue: 0,0:19:03.36,0:19:06.70,*Default,NTP,0000,0000,0000,,如果有人声称自己加入了门萨俱乐部\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}If someone says, hey, I just joined Mensa.
+Dialogue: 0,0:19:06.70,0:19:09.65,*Default,NTP,0000,0000,0000,,或是自以为自己是后现代这个那个的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Or I consider myself a postmodern this or that.
+Dialogue: 0,0:19:09.65,0:19:12.88,*Default,NTP,0000,0000,0000,,你可以说  对  再加50分就够买糖块了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You could say yeah, that and $.50 could get you a candy bar,
+Dialogue: 0,0:19:12.88,0:19:15.64,*Default,NTP,0000,0000,0000,,或是再加25分就够打电话的了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}or that and a quarter could get you a phone call.
+Dialogue: 0,0:19:17.01,0:19:19.18,*Default,NTP,0000,0000,0000,,当年要装冷淡可真的很容易啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}It was easy to be unimpressed back then.
+Dialogue: 0,0:19:19.81,0:19:22.31,*Default,NTP,0000,0000,0000,,我的意思是当年真的很便宜\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I mean it was, literally, cheaper.
+Dialogue: 0,0:19:22.54,0:19:24.80,*Default,NTP,0000,0000,0000,,大家现在好像无比沮丧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}All right, we're kinda bummed out right now.
+Dialogue: 0,0:19:24.93,0:19:26.27,*Default,NTP,0000,0000,0000,,安妮就这么走了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Annie just left.
+Dialogue: 0,0:19:28.98,0:19:30.29,*Default,NTP,0000,0000,0000,,你们感情好不\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Were you guys close?
+Dialogue: 0,0:19:50.29,0:19:51.72,*Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b0\bord1\shad1\3c&H2F2F2F&}城市社区大学  入学申请
+Dialogue: 0,0:19:56.43,0:19:58.03,*Default,NTP,0000,0000,0000,,阿布蒂  我现在不想说话\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Abed, I don't wanna talk right now.
+Dialogue: 0,0:19:58.03,0:19:58.85,*Default,NTP,0000,0000,0000,,好\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Okay.
+Dialogue: 0,0:20:02.38,0:20:03.38,*Default,NTP,0000,0000,0000,,-我  -就告诉你一声  格林德尔的广告\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- I. - Just so you know, the Greendale ad 
+Dialogue: 0,0:20:03.38,0:20:04.80,*Default,NTP,0000,0000,0000,,现在随时都能提交播出了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}is gonna go up any time now.
+Dialogue: 0,0:20:04.80,0:20:05.76,*Default,NTP,0000,0000,0000,,我想也许你会想先看看\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I thought you might want to see it.
+Dialogue: 0,0:20:05.76,0:20:07.15,*Default,NTP,0000,0000,0000,,你知道我不想再掺和这件事了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You know I don't to be a part of that.
+Dialogue: 0,0:20:07.15,0:20:08.18,*Default,NTP,0000,0000,0000,,相信我吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Just trust me.
+Dialogue: 0,0:20:13.49,0:20:14.80,*Default,NTP,0000,0000,0000,,这是来福\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}This is Ruffles.
+Dialogue: 0,0:20:14.80,0:20:17.63,*Default,NTP,0000,0000,0000,,来福是格林德尔社区大学的一名学生\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Ruffles was a student at Greendale Community College,
+Dialogue: 0,0:20:17.63,0:20:19.86,*Default,NTP,0000,0000,0000,,她差点儿就拿到了学位\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}she came really close to getting a degree,
+Dialogue: 0,0:20:19.86,0:20:21.35,*Default,NTP,0000,0000,0000,,这意味着两件事\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}which means two things.
+Dialogue: 0,0:20:21.35,0:20:23.46,*Default,NTP,0000,0000,0000,,她是一只出类拔萃的狗狗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}She's an exceptional dog,
+Dialogue: 0,0:20:23.54,0:20:26.50,*Default,NTP,0000,0000,0000,,而格林德尔真的需要重振旗鼓\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}and Greendale really needs to get its together.
+Dialogue: 0,0:20:26.80,0:20:27.99,*Default,NTP,0000,0000,0000,,我们正在努力\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We're working on it.
+Dialogue: 0,0:20:27.99,0:20:29.07,*Default,NTP,0000,0000,0000,,我们非常的努力\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}We're working hard.
+Dialogue: 0,0:20:29.07,0:20:31.65,*Default,NTP,0000,0000,0000,,好的一面是  如果你在格林德尔足够努力\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}And the good news is, when you work hard at Greendale,
+Dialogue: 0,0:20:31.66,0:20:35.87,*Default,NTP,0000,0000,0000,,无论你是谁或是什么  都会有回报的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}no matter who or what you are, it pays off.
+Dialogue: 0,0:20:36.24,0:20:37.48,*Default,NTP,0000,0000,0000,,对吧  来福\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Right, Ruffles?
+Dialogue: 0,0:20:38.46,0:20:38.96,*Default,NTP,0000,0000,0000,,吓死我了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Jesus.
+Dialogue: 0,0:20:38.96,0:20:41.24,*Default,NTP,0000,0000,0000,,格林德尔社区大学\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Greendale Community College.
+Dialogue: 0,0:20:41.24,0:20:43.43,*Default,NTP,0000,0000,0000,,你已经可以入学了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You're already accepted.
+Dialogue: 0,0:20:45.81,0:20:49.70,*Default,NTP,0000,0000,0000,,我就知道你们不会那样对来福的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You guys I knew you wouldn't do that to Ruffles.
+Dialogue: 0,0:20:49.70,0:20:50.36,*Default,NTP,0000,0000,0000,,你希望的嘛\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You hoped.
+Dialogue: 0,0:20:50.36,0:20:52.12,*Default,NTP,0000,0000,0000,,我有希望而且成真了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I hoped and it worked.
+Dialogue: 0,0:20:52.12,0:20:53.55,*Default,NTP,0000,0000,0000,,希望点点点\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Hope points.
+Dialogue: 0,0:20:53.55,0:20:54.68,*Default,NTP,0000,0000,0000,,希望点点点\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Hope points.
+Dialogue: 0,0:20:54.68,0:20:55.90,*Default,NTP,0000,0000,0000,,你也知道我们所做的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You do understand that what we did,
+Dialogue: 0,0:20:55.90,0:20:58.26,*Default,NTP,0000,0000,0000,,也是最深谋远虑的战略性应对\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}was also just the most prudent tactical move, 
+Dialogue: 0,0:20:58.27,0:21:00.89,*Default,NTP,0000,0000,0000,,比莱特曼的性丑闻更有前瞻性的作战风格\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}getting in front of the scandal Letterman style.
+Dialogue: 0,0:21:00.89,0:21:03.42,*Default,NTP,0000,0000,0000,,好啦  杰夫  别担心\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Yes Jeff don't worry.
+Dialogue: 0,0:21:04.03,0:21:06.74,*Default,NTP,0000,0000,0000,,我保证以后再也不冤枉你冷酷无情了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I promise I'll never mistake you for having a heart.
+Dialogue: 0,0:21:06.74,0:21:07.87,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Thank you.
+Dialogue: 0,0:21:07.89,0:21:09.88,*Default,NTP,0000,0000,0000,,跟城市学校吻别吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Kiss City College goodbye.
+Dialogue: 0,0:21:10.04,0:21:11.01,*Default,NTP,0000,0000,0000,,我做了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I did it.
+Dialogue: 0,0:21:11.41,0:21:12.12,*Default,NTP,0000,0000,0000,,做什么了\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Did what?
+Dialogue: 0,0:21:12.12,0:21:13.44,*Default,NTP,0000,0000,0000,,我们说好的那件事吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}That stuff we talked about.
+Dialogue: 0,0:21:15.01,0:21:16.05,*Default,NTP,0000,0000,0000,,你是谁啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Who are you?
+Dialogue: 0,0:21:16.05,0:21:17.52,*Default,NTP,0000,0000,0000,,我是水管工啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I'm the plumber?
+Dialogue: 0,0:21:17.52,0:21:18.04,*Default,NTP,0000,0000,0000,,为什么\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Why?
+Dialogue: 0,0:21:18.04,0:21:19.50,*Default,NTP,0000,0000,0000,,这就是为什么\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Here's why!
+Dialogue: 0,0:21:19.51,0:21:20.71,*Default,NTP,0000,0000,0000,,天哪\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Oh, God.
+Dialogue: 0,0:21:26.84,0:21:28.06,*Default,NTP,0000,0000,0000,,这是小黄片吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}This is pornography?
+Dialogue: 0,0:21:28.16,0:21:29.17,*Default,NTP,0000,0000,0000,,当然\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Doy.
+Dialogue: 0,0:21:29.27,0:21:31.11,*Default,NTP,0000,0000,0000,,-演员就你一个  -怎样\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}- You're the only actor. - So?
+Dialogue: 0,0:21:31.11,0:21:32.20,*Default,NTP,0000,0000,0000,,你用的镜头什么型号的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}What kind of lens is this?
+Dialogue: 0,0:21:32.20,0:21:33.59,*Default,NTP,0000,0000,0000,,谁在乎啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Who cares? 
+Dialogue: 0,0:21:35.09,0:21:36.59,*Default,NTP,0000,0000,0000,,搞不好你是个天才呢\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You might be a genius.
+Dialogue: 0,0:21:37.10,0:21:37.88,*Default,NTP,0000,0000,0000,,你为什么要这么做\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Why did you do this?
+Dialogue: 0,0:21:37.88,0:21:39.87,*Default,NTP,0000,0000,0000,,如果一个学校曾经是小黄片的拍摄地\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}What parent is going to let their kid go to a school 
+Dialogue: 0,0:21:39.87,0:21:41.71,*Default,NTP,0000,0000,0000,,哪个家长会送孩子来啊\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}if a porn got shot there?
+Dialogue: 0,0:21:41.71,0:21:44.12,*Default,NTP,0000,0000,0000,,但你是在一堵石灰墙前拍的  说是哪儿都行\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}But you shot in front of a plaster wall that could be anywhere.
+Dialogue: 0,0:21:44.12,0:21:45.81,*Default,NTP,0000,0000,0000,,而且你还穿着格林德尔的T恤衫\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}And you're wearing your Greendale T-shirt.
+Dialogue: 0,0:21:46.19,0:21:48.85,*Default,NTP,0000,0000,0000,,好吧天才  但视频标题是\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Okay genius, but the title is 
+Dialogue: 0,0:21:48.85,0:21:52.67,*Default,NTP,0000,0000,0000,,昌操格林德尔  等下\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Chang does Greendale, oh wait.
+Dialogue: 0,0:21:59.89,0:22:01.05,*Default,NTP,0000,0000,0000,,重拍\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Reshoots.
+Dialogue: 0,0:22:05.89,0:22:08.48,*Default,NTP,0000,0000,0000,,{\an8}{\c&H00FFFF&\3c&H000000&\shad1\bord1\fn方正黑体_GBK\fs20\pos(190,248)}手机通讯费四万日元
+Dialogue: 0,0:22:08.62,0:22:11.29,*Default,NTP,0000,0000,0000,,{\an8}{\c&H00FFFF&\3c&H000000&\shad1\bord1\fn方正黑体_GBK\fs20\pos(190,248)}我现在看着眼前的儿子\N就仿佛看到了你真土舅舅的鬼魂一般
+Dialogue: 0,0:22:11.40,0:22:15.40,*Default,NTP,0000,0000,0000,,{\an8}{\c&H00FFFF&\3c&H000000&\shad1\bord1\fn方正黑体_GBK\fs20\pos(190,248)}在你眼里  凡事只要跟钱扯上关系\N所有人都一个样
+Dialogue: 0,0:22:16.46,0:22:20.54,*Default,NTP,0000,0000,0000,,{\an8}{\c&H00FFFF&\3c&H000000&\shad1\bord1\fn方正黑体_GBK\fs20\pos(190,248)}在你的世界里\N可能你把我看成是敌人
+Dialogue: 0,0:22:20.61,0:22:22.91,*Default,NTP,0000,0000,0000,,{\an8}{\c&H00FFFF&\3c&H000000&\shad1\bord1\fn方正黑体_GBK\fs20\pos(190,248)}但你到外面的世界试试\N你就等着哭吧
+Dialogue: 0,0:22:23.01,0:22:26.58,*Default,NTP,0000,0000,0000,,{\an8}{\c&H00FFFF&\3c&H000000&\shad1\bord1\fn方正黑体_GBK\fs20\pos(190,248)}东京是一个用血和机械\N铸就而成的钢铁都市
+Dialogue: 0,0:22:26.65,0:22:29.32,*Default,NTP,0000,0000,0000,,{\an8}{\c&H00FFFF&\3c&H000000&\shad1\bord1\fn方正黑体_GBK\fs20\pos(190,248)}你还能替我下判断吗
+Dialogue: 0,0:22:29.84,0:22:31.61,*Default,NTP,0000,0000,0000,,{\an8}{\c&H00FFFF&\3c&H000000&\shad1\bord1\fn方正黑体_GBK\fs20\pos(190,248)}你根本什么都不懂
+Dialogue: 0,0:22:33.06,0:22:38.59,*Default,NTP,0000,0000,0000,,{\an8}{\c&H00FFFF&\3c&H000000&\shad1\bord1\fn方正黑体_GBK\fs20\pos(190,248)}你最后也会沦为\N像我这样一个渺小的存在
+Dialogue: 0,0:22:54.25,0:22:55.18,*Default,NTP,0000,0000,0000,,院长\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}The dean?
+Dialogue: 0,0:22:55.52,0:22:56.48,*Default,NTP,0000,0000,0000,,你好\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Hellos?
+Dialogue: 0,0:22:56.98,0:22:59.11,*Default,NTP,0000,0000,0000,,你有麻烦了吗  你还好吗\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Are you in trouble? Is everything okay?
+Dialogue: 0,0:22:59.11,0:23:00.94,*Default,NTP,0000,0000,0000,,人生是不是到处都很艰难\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Is life hard everywhere?
+Dialogue: 0,0:23:00.94,0:23:02.48,*Default,NTP,0000,0000,0000,,是不是所有人都是孤独的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Is everyone alone?
+Dialogue: 0,0:23:02.48,0:23:03.83,*Default,NTP,0000,0000,0000,,一直都是\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}All the time.
+Dialogue: 0,0:23:03.83,0:23:05.02,*Default,NTP,0000,0000,0000,,你在家吗  杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Are you at home Jeffrey?
+Dialogue: 0,0:23:05.02,0:23:06.09,*Default,NTP,0000,0000,0000,,要不要我过去陪你\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Should I come over?
+Dialogue: 0,0:23:06.09,0:23:07.31,*Default,NTP,0000,0000,0000,,你过不来的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}You cannot come to me.
+Dialogue: 0,0:23:07.31,0:23:08.86,*Default,NTP,0000,0000,0000,,我必须跟你坦白\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I must confession you.
+Dialogue: 0,0:23:09.24,0:23:10.35,*Default,NTP,0000,0000,0000,,我不是杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am not Jeffrey.
+Dialogue: 0,0:23:10.35,0:23:11.61,*Default,NTP,0000,0000,0000,,我知道\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I understand.
+Dialogue: 0,0:23:11.61,0:23:13.18,*Default,NTP,0000,0000,0000,,我也不知道自己是谁\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I rarely know who I am.
+Dialogue: 0,0:23:13.18,0:23:15.17,*Default,NTP,0000,0000,0000,,不是  我是说我不是杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}No, I mean I am not Jeffrey.
+Dialogue: 0,0:23:15.17,0:23:16.26,*Default,NTP,0000,0000,0000,,尽情倾诉吧\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Let it out.
+Dialogue: 0,0:23:16.27,0:23:18.99,*Default,NTP,0000,0000,0000,,我叫隆  我是住在东京的少年\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am Takashi. I am teenage boy in Tokyo.
+Dialogue: 0,0:23:18.99,0:23:21.88,*Default,NTP,0000,0000,0000,,我觉得有时大家都是这样的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I think we all are sometimes.
+Dialogue: 0,0:23:21.99,0:23:25.89,*Default,NTP,0000,0000,0000,,很抱歉之前骗你玩  但我现在需要朋友\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am sorry for making fun before, but now I need a friend.
+Dialogue: 0,0:23:25.89,0:23:28.33,*Default,NTP,0000,0000,0000,,我明天再给你带点橄榄吧  杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Why don't I bring you some olives tomorrow, Jeffrey?
+Dialogue: 0,0:23:28.33,0:23:30.18,*Default,NTP,0000,0000,0000,,我不是杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am not Jeffrey!
+Dialogue: 0,0:23:30.19,0:23:32.52,*Default,NTP,0000,0000,0000,,我也不是院长\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am not the dean!
+Dialogue: 0,0:23:37.20,0:23:40.03,*Default,NTP,0000,0000,0000,,我经常回想起那个晚上\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I often think about that night.
+Dialogue: 0,0:23:40.14,0:23:44.35,*Default,NTP,0000,0000,0000,,那么小的一件事  最终正是那一刻\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Such a small event, but ultimately the moment 
+Dialogue: 0,0:23:44.35,0:23:47.89,*Default,NTP,0000,0000,0000,,带引着我成为了「艾欧班」\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}that would lead me to becoming Ioban.
+Dialogue: 0,0:23:48.48,0:23:51.20,*Default,NTP,0000,0000,0000,,日本黑道最至高无上的老大\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Highest the leader of the Yakuza.
+Dialogue: 0,0:24:28.02,0:24:29.33,*Default,NTP,0000,0000,0000,,你看懂了没\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Did you get any of that?
+
+ teenage boy in Tokyo.
+Dialogue: 0,0:23:18.99,0:23:21.88,*Default,NTP,0000,0000,0000,,我觉得有时大家都是这样的\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I think we all are sometimes.
+Dialogue: 0,0:23:21.99,0:23:25.89,*Default,NTP,0000,0000,0000,,很抱歉之前骗你玩  但我现在需要朋友\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am sorry for making fun before, but now I need a friend.
+Dialogue: 0,0:23:25.89,0:23:28.33,*Default,NTP,0000,0000,0000,,我明天再给你带点橄榄吧  杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Why don't I bring you some olives tomorrow, Jeffrey?
+Dialogue: 0,0:23:28.33,0:23:30.18,*Default,NTP,0000,0000,0000,,我不是杰夫瑞\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am not Jeffrey!
+Dialogue: 0,0:23:30.19,0:23:32.52,*Default,NTP,0000,0000,0000,,我也不是院长\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I am not the Dean!
+Dialogue: 0,0:23:37.20,0:23:40.03,*Default,NTP,0000,0000,0000,,我经常回想起那个晚上\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}I often think about that night.
+Dialogue: 0,0:23:40.14,0:23:44.35,*Default,NTP,0000,0000,0000,,那么小的一件事  最终正是那一刻\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Such a small event, but ultimately the moment 
+Dialogue: 0,0:23:44.35,0:23:48.12,*Default,NTP,0000,0000,0000,,带引着我成为了{\u1}「大组长」{\u0}{\fs9}[親分]\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}that would lead me to becoming Oyabun.
+Dialogue: 0,0:23:48.48,0:23:51.39,*Default,NTP,0000,0000,0000,,日本黑道最至高无上的老大\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Highest the leader of the Yakuza.
+Dialogue: 0,0:24:28.02,0:24:29.33,*Default,NTP,0000,0000,0000,,你看懂了没\N{\fn微软雅黑}{\fs9}{\b0}{\c&HFFFFFF&&}{\3c&000000&}{\4c&H000000&}Did you get any of that?
+
