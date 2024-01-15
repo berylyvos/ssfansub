@@ -1,6 +1,6 @@
 # 泉水渗透进字幕组
 
-本组纯自娱自乐。有寻求合作意向者，邮箱联系[berylyvos@163.com](mailto:berylyvos@163.com)
+本~~字幕组~~（人）纯自娱自乐。对字幕制作有强烈兴趣（不是三分钟热度）或有意寻求合作者，欢迎联系邮箱[berylyvos@163.com](mailto:berylyvos@163.com)
 
 
 
