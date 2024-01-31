@@ -45,10 +45,14 @@
 ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓██████████▓▓▒▒░░██████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██▓▓██████████▓▓▒▒▒▒▓▓▓▓▓▓▓▓▓▓▒▒██▓▓▒▒▒▒
 ```
 
-本~~字幕组~~（人）纯自娱自乐。听写用的[Whisper](https://github.com/openai/whisper)。翻译主要用[GPT-4](https://chat.openai.com/)。音视频处理包括提取音频和压制字幕用的ChatGPT生成的[FFmpeg](https://ffmpeg.org/)脚本。打轴和校对~~这种杂活累活~~就由我亲自上阵了！
+本~~字幕组~~（人）纯自娱自乐。听写用的[Whisper](https://github.com/openai/whisper)。翻译主要用[GPT-4](https://chat.openai.com/)。音视频处理包括提取音频和压制字幕用的ChatGPT生成的[FFmpeg](https://ffmpeg.org/)脚本。打轴和校对~~这种杂活累活~~就由我亲自上阵了。
 
 
 ## 🗓️ 时间线
+
+**2024-01-31** 🛏️ 发布《废柴联盟「枕毯大战纪录片」的幕后纪录片》[BV1f4421w7az](https://www.bilibili.com/video/BV1f4421w7az)
+
+**2024-01-30** 👁️‍🗨️ 建立微博账号[@泉水渗透进字幕组](https://weibo.com/u/6019133279)
 
 **2024-01-18** 📀 发布《废柴联盟～第一季迷你剧「学间休息」》[BV1Zw41177Em](https://www.bilibili.com/video/BV1Zw41177Em)
 
