@@ -50,6 +50,8 @@
 
 ## 🗓️ 时间线
 
+**2024-02-08** 🔑 发布《废柴联盟动画短剧「阿布蒂的万能钥匙」》[BV1SB421z7kH](https://www.bilibili.com/video/BV1SB421z7kH)
+
 **2024-01-31** 🛏️ 发布《废柴联盟「枕毯大战纪录片」的幕后纪录片》[BV1f4421w7az](https://www.bilibili.com/video/BV1f4421w7az)
 
 **2024-01-30** 👁️‍🗨️ 建立微博账号[@泉水渗透进字幕组](https://weibo.com/u/6019133279)
