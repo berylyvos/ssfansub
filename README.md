@@ -50,6 +50,8 @@
 
 ## 🗓️ 时间线
 
+**2024-02-18** 🏫 发布《格林德尔「5A级」社区学院招生宣传片》[BV19A4m1371m](https://www.bilibili.com/video/BV19A4m1371m)
+
 **2024-02-08** 🔑 发布《废柴联盟动画短剧「阿布蒂的万能钥匙」》[BV1SB421z7kH](https://www.bilibili.com/video/BV1SB421z7kH)
 
 **2024-01-31** 🛏️ 发布《废柴联盟「枕毯大战纪录片」的幕后纪录片》[BV1f4421w7az](https://www.bilibili.com/video/BV1f4421w7az)
